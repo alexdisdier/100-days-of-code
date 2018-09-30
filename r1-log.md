@@ -10,17 +10,27 @@ The log of my #100DaysOfCode challenge. Started on [September 29, Saturday, 2018
 
 **Thoughts:** The hardest was to find the person I should write about. Then I had to come up with a design. I chose to follow medium style. 
 
+**Duration:** 1h48
+
 **Links to work:** 
 1. Project on codepen - [Tribute page](https://codepen.io/alexdisdier/pen/XxWpZR)
 2. Project on github - [Tribute page](https://alexdisdier.github.io/tribute/)
 
 ### R1D2: September 30, 2018 
 
-**Today's Progress**: 
+**Today's Progress**: I realized I forgot to add [<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">](https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag), which is crucial for responsive design. 
 
-**Thoughts:** 
+I added some some media queries and work on my css. 
+I included some share buttons. 
+The page is pretty much finished. I'm going to ask some feedbacks to friends, polish and move on to next project. 
 
-**Link to work:** 
+**Thoughts:** It is hard to keep it around an hour. It doesn't feel sufficient time to make significant progress. Nevertheless, it pushes you to stay efficient, which is something I need to work on. 
+
+**Duration:** 2h23
+
+**Links to work:** 
+1. Project on codepen - [Tribute page](https://codepen.io/alexdisdier/pen/XxWpZR)
+2. Project on github - [Tribute page](https://alexdisdier.github.io/tribute/)
 
 ################################################################
 
