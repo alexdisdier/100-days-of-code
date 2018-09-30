@@ -18,7 +18,7 @@ The log of my #100DaysOfCode challenge. Started on [September 29, Saturday, 2018
 
 ### R1D2: September 30, 2018 
 
-**Today's Progress**: I realized I forgot to add [<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">](https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag), which is crucial for responsive design. 
+**Today's Progress**: I realized I forgot to add [meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"](https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag), which is crucial for responsive design. 
 
 I added some some media queries and work on my css. 
 I included some share buttons. 
