@@ -32,6 +32,27 @@ The page is pretty much finished. I'm going to ask some feedbacks to friends, po
 1. Project on codepen - [Tribute page](https://codepen.io/alexdisdier/pen/XxWpZR)
 2. Project on github - [Tribute page](https://alexdisdier.github.io/tribute/)
 
+### R1D3: October 1, 2018 
+
+**Today's Progress**: I finished the tribute freecodecamp project.
+
+- corrected a padding issue in my footer
+- added a favicon that I made on [figma](https://www.figma.com)
+- updated the project on codepen to be the same one as github
+
+I then started to build the structural HTML markup of the survey freecodecamp project. 
+
+**Thoughts:** Excited to move on to the next project. I wish I had more time 
+
+**Duration:** 1h08
+
+**Links to work:** 
+1. On codepen - [Tribute page](https://codepen.io/alexdisdier/pen/XxWpZR)
+2. On github - [Tribute page](https://alexdisdier.github.io/tribute/)
+
+3. On codepen - [Survey page](https://codepen.io/alexdisdier/pen/dgyvYa)
+4. On github - [Survey page](https://alexdisdier.github.io/survey/)
+
 ################################################################
 
 ## Log Dummy examples
