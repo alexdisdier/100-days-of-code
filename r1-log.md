@@ -53,6 +53,22 @@ I then started to build the structural HTML markup of the survey freecodecamp pr
 3. On codepen - [Survey page](https://codepen.io/alexdisdier/pen/dgyvYa)
 4. On github - [Survey page](https://alexdisdier.github.io/survey/)
 
+### R1D4: October 2, 2018 
+
+**Today's Progress**: I finished to build the Survey page in order to pass the tests set up by freecodecamp. 
+
+I researched a topic for my survey and came up with "finding out which European ironman is best suited for you". The idea behind this survey is to help me decide which one I'll attempt within the next two years. 
+
+I started building a json file to list all the ironmans. 
+
+**Thoughts:** The hardest was to find the idea behind my survey and to shape the questions for the survey. 
+
+**Duration:** 1h42
+
+**Links to work:** 
+1. On codepen - [Survey page](https://codepen.io/alexdisdier/pen/dgyvYa)
+2. On github - [Survey page](https://alexdisdier.github.io/survey/)
+
 ################################################################
 
 ## Log Dummy examples
