@@ -69,6 +69,20 @@ I started building a json file to list all the ironmans.
 1. On codepen - [Survey page](https://codepen.io/alexdisdier/pen/dgyvYa)
 2. On github - [Survey page](https://alexdisdier.github.io/survey/)
 
+### R1D5: October 3, 2018 
+
+**Today's Progress**: I was wasting too much time on this simple survey and I was turning the exercise into a web app. 
+
+Therefore, I decided to step down. I listed a couple of ironman as an introduction of the form. Then, the user can add one by sending me an email using the form. 
+
+**Thoughts:** I got side tracked by other life priorities which made me lose focus. Tomorrow, I will aim at styling the form. I plan on finishing this project by October 5th. 
+
+**Duration:** 2h00
+
+**Links to work:** 
+1. On codepen - [Survey page](https://codepen.io/alexdisdier/pen/dgyvYa)
+2. On github - [Survey page](https://alexdisdier.github.io/survey/)
+
 ################################################################
 
 ## Log Dummy examples
