@@ -83,6 +83,18 @@ Therefore, I decided to step down. I listed a couple of ironman as an introducti
 1. On codepen - [Survey page](https://codepen.io/alexdisdier/pen/dgyvYa)
 2. On github - [Survey page](https://alexdisdier.github.io/survey/)
 
+### R1D6: October 4, 2018 
+
+**Today's Progress**: I worked on the UX of my form and the design using bootstrap 4. I still need to apply the UX rule to the selection options which stipulate if no more than 6 options are applied, they need to be display inline. 
+
+**Thoughts:** I feel better today as I'm changing my mind set. The goal is not to rush to the finish line and to build as many projects as possible; The goal is to polish my skills as a developer, so I should keep a pace I'm confortable with. 
+
+**Duration:** 2h13
+
+**Links to work:** 
+1. On codepen - [Survey page](https://codepen.io/alexdisdier/pen/dgyvYa)
+2. On github - [Survey page](https://alexdisdier.github.io/survey/)
+
 ################################################################
 
 ## Log Dummy examples
