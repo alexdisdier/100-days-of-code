@@ -95,6 +95,22 @@ Therefore, I decided to step down. I listed a couple of ironman as an introducti
 1. On codepen - [Survey page](https://codepen.io/alexdisdier/pen/dgyvYa)
 2. On github - [Survey page](https://alexdisdier.github.io/survey/)
 
+### R1D7: October 5, 2018 
+
+**Today's Progress**: I improved the form design and added a bootstrap form validation. I finished the survey form project.
+
+I will probably come back to it to improve it further down the challenge but for now, I'm onto the next project from freecodecamp. 
+
+I had some extra time so I started to set up the Product landing page project. Passed 8/16 tests
+
+**Thoughts:** I wish I could code longer but I feel like my eyes are closing. 
+
+**Duration:** 2h02
+
+**Links to work:** 
+1. On codepen - [Survey page](https://codepen.io/alexdisdier/pen/dgyvYa)
+2. On github - [Survey page](https://alexdisdier.github.io/survey/)
+
 ################################################################
 
 ## Log Dummy examples
