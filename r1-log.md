@@ -111,6 +111,18 @@ I had some extra time so I started to set up the Product landing page project. P
 1. On codepen - [Survey page](https://codepen.io/alexdisdier/pen/dgyvYa)
 2. On github - [Survey page](https://alexdisdier.github.io/survey/)
 
+### R1D8: October 6, 2018 
+
+**Today's Progress**: I passed all the tests of Product landing page and I chose a topic. Two products will be presented, a BMW s1000 r and a ducati monster 1200s. I started to do some research on the design I will be using and gathering some photos from unsplash I could use. 
+
+**Thoughts:** It is saturday night and it's time to relax. 
+
+**Duration:** 1H12
+
+**Links to work:** 
+1. On codepen - [Product landing page]()
+2. On github - [Product Landing page](https://alexdisdier.github.io/product-landing-page/)
+
 ################################################################
 
 ## Log Dummy examples
