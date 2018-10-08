@@ -123,6 +123,22 @@ I had some extra time so I started to set up the Product landing page project. P
 1. On codepen - [Product landing page]()
 2. On github - [Product Landing page](https://alexdisdier.github.io/product-landing-page/)
 
+### R1D9: October 7, 2018 
+
+**Today's Progress**: I decided to set up my design on figma and I embedded the iframe into my website so people can keep track of my progress. I'm almost done with the mobile version design of my product landing page. 
+
+I also shifted my interest of the product to solely the BMW s1000r. 
+
+I'm going for a minimalist and futuristic style design
+
+**Thoughts:** Figma is so powerful and intuitive. Loving it
+
+**Duration:** 3h30
+
+**Links to work:** 
+1. On codepen - [Product landing page]()
+2. On github - [Product Landing page](https://alexdisdier.github.io/product-landing-page/)
+
 ################################################################
 
 ## Log Dummy examples
