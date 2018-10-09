@@ -151,6 +151,18 @@ I'm going for a minimalist and futuristic style design
 1. On codepen - [Product landing page]()
 2. On github - [Product Landing page](https://alexdisdier.github.io/product-landing-page/)
 
+### R1D11: October 9, 2018 
+
+**Today's Progress**: I finished the design on Figma for the tablet version. Final design for desktop tomorrow. 
+
+**Thoughts:** This makes me want to learn the ins and outs of Figma to gain even more time on designing my pages. 
+
+**Duration:** 1h04
+
+**Links to work:** 
+1. On codepen - [Product landing page]()
+2. On github - [Product Landing page](https://alexdisdier.github.io/product-landing-page/)
+
 ################################################################
 
 ## Log Dummy examples
