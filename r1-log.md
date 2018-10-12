@@ -175,6 +175,18 @@ I'm going for a minimalist and futuristic style design
 1. On codepen - [Product landing page]()
 2. On github - [Product Landing page](https://alexdisdier.github.io/product-landing-page/)
 
+### R1D13: October 11, 2018 
+
+**Today's Progress**: I'm still working on my css which is taking longer than expected. I need to finish this by Saturday and move on to the next project. 
+
+**Thoughts:** Wanting to go to the next project
+
+**Duration:** 3h20
+
+**Links to work:** 
+1. On codepen - [Product landing page]()
+2. On github - [Product Landing page](https://alexdisdier.github.io/product-landing-page/)
+
 ################################################################
 
 ## Log Dummy examples
