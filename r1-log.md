@@ -196,8 +196,18 @@ I'm going for a minimalist and futuristic style design
 **Duration:** 2h50
 
 **Links to work:** 
-1. On codepen - [Product landing page]()
-2. On github - [Product Landing page](https://alexdisdier.github.io/product-landing-page/)
+1. On github - [Product Landing page](https://alexdisdier.github.io/product-landing-page/)
+
+### R1D15: October 13, 2018 
+
+**Today's Progress**: I finished the product landing page. Could always be better but it's time to move on to the next project. The most important was the fact that I passes the tests. 
+
+**Thoughts:** Yeahhhhh
+
+**Duration:** 4h
+
+**Links to work:** 
+1. On github - [Product Landing page](https://alexdisdier.github.io/product-landing-page/)
 
 ################################################################
 
