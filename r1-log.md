@@ -209,6 +209,21 @@ I'm going for a minimalist and futuristic style design
 **Links to work:** 
 1. On github - [Product Landing page](https://alexdisdier.github.io/product-landing-page/)
 
+### R1D16: October 14, 2018 
+
+**Today's Progress**: I started the technical documentation page project from the freeCodeCamp Curriculum. Before jumping into coding, I wrote down the content of my documentation which will server for a guide to my [digital vcard](https://github.com/alexdisdier/vcard/tree/master/dist). 
+
+I Then did some research on the style I want to use for the documentation page. 
+
+I am interested in using system UI fonts to draw clearer lines between the content and user interface, with zero latency. The content will be system UI and the titles will be either Fira Sans (Mozilla brand typeface), San Francisco (Apple brand typeface) or Roboto (Google brand typeface). 
+
+**Thoughts:** Even though this is not coding per se, it is an important phase that will save time down the line. 
+
+**Duration:** 2h08
+
+**Links to work:** 
+none yet
+
 ################################################################
 
 ## Log Dummy examples
