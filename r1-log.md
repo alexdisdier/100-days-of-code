@@ -233,8 +233,7 @@ none yet
 **Duration:** 3h55
 
 **Links to work:** 
-none yet
-
+1. On github - [technical_documentation_page](https://alexdisdier.github.io/vcard-documentation/)
 ################################################################
 
 ## Log Dummy examples
