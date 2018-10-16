@@ -224,6 +224,17 @@ I am interested in using system UI fonts to draw clearer lines between the conte
 **Links to work:** 
 none yet
 
+### R1D17: October 15, 2018 
+
+**Today's Progress**: I worked on setting up my working environment. I took this opportunity to build my custom gulpfile.js and set up a source folder for my next projects. 
+
+**Thoughts:** I had quite some fun researching and taking the time to really understand how gulp works. 
+
+**Duration:** 3h55
+
+**Links to work:** 
+none yet
+
 ################################################################
 
 ## Log Dummy examples
