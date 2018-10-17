@@ -234,6 +234,17 @@ none yet
 
 **Links to work:** 
 1. On github - [technical_documentation_page](https://alexdisdier.github.io/vcard-documentation/)
+
+### R1D18: October 16, 2018 
+
+**Today's Progress**: I passed all the freecodecamp tests for the technical page. I wrote the content and started the design. I'm pretty much done. I will polish my design tomorrow and try to add an active class to my menu link as you scroll in vanilla javascript. 
+
+**Thoughts:** Quite pleased, I'm moved quickly throught this project. I should be done tomorrow. 
+
+**Duration:** 4h23
+
+**Links to work:** 
+1. On github - [technical_documentation_page](https://alexdisdier.github.io/vcard-documentation/)
 ################################################################
 
 ## Log Dummy examples
