@@ -120,7 +120,7 @@ I had some extra time so I started to set up the Product landing page project. P
 **Duration:** 1H12
 
 **Links to work:** 
-1. On codepen - [Product landing page]()
+1. On codepen - [Product landing page](https://codepen.io/alexdisdier/pen/pxLgVL)
 2. On github - [Product Landing page](https://alexdisdier.github.io/product-landing-page/)
 
 ### R1D9: October 7, 2018 
@@ -136,7 +136,7 @@ I'm going for a minimalist and futuristic style design
 **Duration:** 3h30
 
 **Links to work:** 
-1. On codepen - [Product landing page]()
+1. On codepen - [Product landing page](https://codepen.io/alexdisdier/pen/pxLgVL)
 2. On github - [Product Landing page](https://alexdisdier.github.io/product-landing-page/)
 
 ### R1D10: October 8, 2018 
@@ -148,7 +148,7 @@ I'm going for a minimalist and futuristic style design
 **Duration:** 1h05
 
 **Links to work:** 
-1. On codepen - [Product landing page]()
+1. On codepen - [Product landing page](https://codepen.io/alexdisdier/pen/pxLgVL)
 2. On github - [Product Landing page](https://alexdisdier.github.io/product-landing-page/)
 
 ### R1D11: October 9, 2018 
@@ -160,7 +160,7 @@ I'm going for a minimalist and futuristic style design
 **Duration:** 1h04
 
 **Links to work:** 
-1. On codepen - [Product landing page]()
+1. On codepen - [Product landing page](https://codepen.io/alexdisdier/pen/pxLgVL)
 2. On github - [Product Landing page](https://alexdisdier.github.io/product-landing-page/)
 
 ### R1D12: October 10, 2018 
@@ -172,7 +172,7 @@ I'm going for a minimalist and futuristic style design
 **Duration:** 3h11
 
 **Links to work:** 
-1. On codepen - [Product landing page]()
+1. On codepen - [Product landing page](https://codepen.io/alexdisdier/pen/pxLgVL)
 2. On github - [Product Landing page](https://alexdisdier.github.io/product-landing-page/)
 
 ### R1D13: October 11, 2018 
@@ -184,7 +184,7 @@ I'm going for a minimalist and futuristic style design
 **Duration:** 3h20
 
 **Links to work:** 
-1. On codepen - [Product landing page]()
+1. On codepen - [Product landing page](https://codepen.io/alexdisdier/pen/pxLgVL)
 2. On github - [Product Landing page](https://alexdisdier.github.io/product-landing-page/)
 
 ### R1D14: October 12, 2018 
@@ -196,7 +196,8 @@ I'm going for a minimalist and futuristic style design
 **Duration:** 2h50
 
 **Links to work:** 
-1. On github - [Product Landing page](https://alexdisdier.github.io/product-landing-page/)
+1. On codepen - [Product landing page](https://codepen.io/alexdisdier/pen/pxLgVL)
+2. On github - [Product Landing page](https://alexdisdier.github.io/product-landing-page/)
 
 ### R1D15: October 13, 2018 
 
@@ -207,7 +208,8 @@ I'm going for a minimalist and futuristic style design
 **Duration:** 4h
 
 **Links to work:** 
-1. On github - [Product Landing page](https://alexdisdier.github.io/product-landing-page/)
+1. On codepen - [Product landing page](https://codepen.io/alexdisdier/pen/pxLgVL)
+2. On github - [Product Landing page](https://alexdisdier.github.io/product-landing-page/)
 
 ### R1D16: October 14, 2018 
 
@@ -233,7 +235,8 @@ none yet
 **Duration:** 3h55
 
 **Links to work:** 
-1. On github - [technical_documentation_page](https://alexdisdier.github.io/vcard-documentation/)
+1. On codepen - [Technical documentation page](https://codepen.io/alexdisdier/pen/NOYxxb)
+2. On github - [Technical documentation page](https://alexdisdier.github.io/vcard-documentation/)
 
 ### R1D18: October 16, 2018 
 
@@ -244,7 +247,28 @@ none yet
 **Duration:** 4h23
 
 **Links to work:** 
-1. On github - [technical_documentation_page](https://alexdisdier.github.io/vcard-documentation/)
+1. On codepen - [Technical documentation page](https://codepen.io/alexdisdier/pen/NOYxxb)
+2. On github - [Technical documentation page](https://alexdisdier.github.io/vcard-documentation/)
+
+### R1D19: October 17, 2018 
+
+**Today's Progress**: I finished the technical documentation page. I submitted to freecodecamp a but between a smoothscroll script and their test suite script. 
+
+I updated all my codepen so they will be identical with my github repositories. 
+
+I used my existing [portfolio](https://onze.digital) to pass the last project of the Responsive Web Design certification. I uploaded only one page to codepen and tweaked the html and css to pass the test suite.  
+
+I claimed my certification.
+
+**Thoughts:** I feel like I've done a lot of work in a short time. 
+
+**Duration:** 3h15
+
+**Links to work:** 
+1. On codepen - [Technical documentation page](https://codepen.io/alexdisdier/pen/NOYxxb)
+2. On github - [Technical documentation page](https://alexdisdier.github.io/vcard-documentation/)
+3. On codepen - [Personal portfolio webpage](https://codepen.io/alexdisdier/pen/ZqxOZJ)
+
 ################################################################
 
 ## Log Dummy examples
