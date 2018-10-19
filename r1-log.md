@@ -269,6 +269,18 @@ I claimed my certification.
 2. On github - [Technical documentation page](https://alexdisdier.github.io/vcard-documentation/)
 3. On codepen - [Personal portfolio webpage](https://codepen.io/alexdisdier/pen/ZqxOZJ)
 
+### R1D20: October 18, 2018 
+
+**Today's Progress**: I went through as many javascript exercises as possible, a total of 34. 
+
+**Thoughts:** The Basic Algorithm Scripting are challenging enough to refresh my memory but not insurmountable.
+
+**Duration:** 5h
+
+**Links to work:** 
+[FreeCodeCamp](https://www.freecodecamp.org/alexdisdier)
+
+
 ################################################################
 
 ## Log Dummy examples
