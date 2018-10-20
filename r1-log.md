@@ -279,6 +279,18 @@ I claimed my certification.
 
 **Links to work:** 
 [FreeCodeCamp](https://www.freecodecamp.org/alexdisdier)
+Basic Algorithm Scripting
+
+### R1D21: October 19, 2018 
+
+**Today's Progress**: I completed all the basic algorithm scripting from FreeCodeCamp. 
+
+**Thoughts:** Sometimes, it's better to go the longer way instead of trying to find shortcuts that don't exist. Then we can find a shorter path that feels good. 
+
+**Duration:** 2h37
+
+**Links to work:** 
+[FreeCodeCamp](https://www.freecodecamp.org/alexdisdier)
 
 
 ################################################################
