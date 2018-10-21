@@ -292,6 +292,19 @@ Basic Algorithm Scripting
 **Links to work:** 
 [FreeCodeCamp](https://www.freecodecamp.org/alexdisdier)
 
+Object Oriented Programming
+
+### R1D22: October 20, 2018 
+
+**Today's Progress**: I completed the Object Oriented Programming section from FreeCodeCamp. 
+
+**Thoughts:** Even though I already went through the basics while I did my bootcamp at 3W Academy, this was useful to refresh my memory. 
+
+**Duration:** 1h37
+
+**Links to work:** 
+[FreeCodeCamp](https://www.freecodecamp.org/alexdisdier)
+
 
 ################################################################
 
