@@ -305,6 +305,20 @@ Object Oriented Programming
 **Links to work:** 
 [FreeCodeCamp](https://www.freecodecamp.org/alexdisdier)
 
+### R1D23: October 21, 2018 
+
+**Today's Progress**: I wasted a lot of time looking for a a versatile text editor implemented in JavaScript for the browser. My plan is to build a web page for myself so I can refer to the exercises I'm going through in FreeCodeCamp. I will use the design I made for the technical documentation page. I found 2 code editors I could use:
+-[codemirror](https://codemirror.net/)
+-[Ace Editor](https://ace.c9.io/#nav=howto)
+
+I also went through some exercises in the functional programming from FreeCodeCamp. 
+
+**Thoughts:** Sometimes research takes longer that trying to implement something yourself. 
+
+**Duration:** 2h
+
+**Links to work:** 
+[FreeCodeCamp](https://www.freecodecamp.org/alexdisdier)
 
 ################################################################
 
