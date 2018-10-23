@@ -320,6 +320,19 @@ I also went through some exercises in the functional programming from FreeCodeCa
 **Links to work:** 
 [FreeCodeCamp](https://www.freecodecamp.org/alexdisdier)
 
+### R1D24: October 22, 2018 
+
+**Today's Progress**: I did some exercises in the functional programming from FreeCodeCamp. 
+
+I also push to github the Palindrome checker which is part of the JavaScript Algorithms and Data Structures Projects
+
+**Thoughts:** It is hard to stop coding. Always love the challenges. 
+
+**Duration:** 1h35
+
+**Links to work:** 
+[FreeCodeCamp](https://www.freecodecamp.org/alexdisdier)
+
 ################################################################
 
 ## Log Dummy examples
