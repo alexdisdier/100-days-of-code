@@ -343,7 +343,7 @@ I worked through some functional programming exercises and started to learn how 
 
 **Thoughts:** Sometimes, things can get quickly overwhelming when you realize the amount of things that you can learn. The key is to take it one step at a time. 
 
-**Duration:** 
+**Duration:** 3h57
 
 **Links to work:** 
 [FreeCodeCamp](https://www.freecodecamp.org/alexdisdier)
