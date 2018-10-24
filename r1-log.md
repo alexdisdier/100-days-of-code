@@ -333,6 +333,21 @@ I also push to github the Palindrome checker which is part of the JavaScript Alg
 **Links to work:** 
 [FreeCodeCamp](https://www.freecodecamp.org/alexdisdier)
 
+### R1D25: October 23, 2018 
+
+**Today's Progress**: I started to learn how to use Jekyll for static websites on github pages. 
+
+I submitted some sitemaps to google search console for some of the projects I pushed to github. 
+
+I worked through some functional programming exercises and started to learn how to make a Facebook Messenger Bot
+
+**Thoughts:** Sometimes, things can get quickly overwhelming when you realize the amount of things that you can learn. The key is to take it one step at a time. 
+
+**Duration:** 
+
+**Links to work:** 
+[FreeCodeCamp](https://www.freecodecamp.org/alexdisdier)
+
 ################################################################
 
 ## Log Dummy examples
