@@ -348,6 +348,17 @@ I worked through some functional programming exercises and started to learn how 
 **Links to work:** 
 [FreeCodeCamp](https://www.freecodecamp.org/alexdisdier)
 
+### R1D26: October 24, 2018 
+
+**Today's Progress**: I worked through some functional programming exercises and I started to set up my Facebook Messenger Bot
+
+**Thoughts:** I wish there were more than 24hours in a day. 
+
+**Duration:** 2h30
+
+**Links to work:** 
+[FreeCodeCamp](https://www.freecodecamp.org/alexdisdier)
+
 ################################################################
 
 ## Log Dummy examples
