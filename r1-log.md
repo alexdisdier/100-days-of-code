@@ -359,6 +359,17 @@ I worked through some functional programming exercises and started to learn how 
 **Links to work:** 
 [FreeCodeCamp](https://www.freecodecamp.org/alexdisdier)
 
+### R1D27: October 25, 2018 
+
+**Today's Progress**: I finished the functional programming section from FreeCodeCamp. I started to work on Intermediate Algorithm Scripting. 
+
+**Thoughts:** Happy to start the intermediate Algorithm Scripting. 
+
+**Duration:** 1h27
+
+**Links to work:** 
+[FreeCodeCamp](https://www.freecodecamp.org/alexdisdier)
+
 ################################################################
 
 ## Log Dummy examples
