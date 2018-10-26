@@ -361,9 +361,11 @@ I worked through some functional programming exercises and started to learn how 
 
 ### R1D27: October 25, 2018 
 
-**Today's Progress**: I finished the functional programming section from FreeCodeCamp. I started to work on Intermediate Algorithm Scripting. 
+**Today's Progress**:  I set up [Ngrok](https://ngrok.com/) (a multiplatform tunnelling, reverse proxy software) and I signed up with [dialogflow](https://console.dialogflow.com/) for my facebook messenger bot.
 
-**Thoughts:** Happy to start the intermediate Algorithm Scripting. 
+On the side, I finished some functional programming and started the Intermediate Algorithm Scripting (freeCodeCamp)
+
+**Thoughts:** Happy to start the intermediate Algorithm Scripting. I wish I had more time to code today. 
 
 **Duration:** 1h27
 
