@@ -372,6 +372,19 @@ On the side, I finished some functional programming and started the Intermediate
 **Links to work:** 
 [FreeCodeCamp](https://www.freecodecamp.org/alexdisdier)
 
+### R1D28: October 26, 2018 
+
+**Today's Progress**:  I feel like I understand better functional programming and the use of the array methods. 
+
+I failed at creating my Facebook Messenger Bot. I will try again next week. 
+
+**Thoughts:** I feel like I've wasted so much time trying to set up this facebook messenger bot. 
+
+**Duration:** 3h35
+
+**Links to work:** 
+[FreeCodeCamp](https://www.freecodecamp.org/alexdisdier)
+
 ################################################################
 
 ## Log Dummy examples
