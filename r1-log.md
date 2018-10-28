@@ -385,6 +385,21 @@ I failed at creating my Facebook Messenger Bot. I will try again next week.
 **Links to work:** 
 [FreeCodeCamp](https://www.freecodecamp.org/alexdisdier)
 
+### R1D29: October 27, 2018 
+
+**Today's Progress**:  Even though I did a lot of hours, I didn't manage to go through many challenges as I hit a wall with functional programming and regex. 
+
+I had to look at the solutions in order to move on to the next challenge. 
+
+I did understand the solution but I wish I came up with it after so many hours. I ended up to study more regular expressions. 
+
+**Thoughts:** I feel frustrated and I will need to go over those challenges again in the future to see if I understood the solutions correctly. 
+
+**Duration:** 4h06
+
+**Links to work:** 
+[FreeCodeCamp](https://www.freecodecamp.org/alexdisdier)
+
 ################################################################
 
 ## Log Dummy examples
