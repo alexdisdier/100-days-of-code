@@ -400,6 +400,17 @@ I did understand the solution but I wish I came up with it after so many hours. 
 **Links to work:** 
 [FreeCodeCamp](https://www.freecodecamp.org/alexdisdier)
 
+### R1D30: October 28, 2018 
+
+**Today's Progress**: I went through some more Intermediate Algorithm Scripting without looking at the solutions. I only took a pic to see what was their solutions and compare it with mine. 
+
+**Thoughts:** I'm starting to enjoy using Javascript arrow function, much cleaner. 
+
+**Duration:** 2h39
+
+**Links to work:** 
+[FreeCodeCamp](https://www.freecodecamp.org/alexdisdier)
+
 ################################################################
 
 ## Log Dummy examples
