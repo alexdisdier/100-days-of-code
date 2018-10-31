@@ -411,25 +411,24 @@ I did understand the solution but I wish I came up with it after so many hours. 
 **Links to work:** 
 [FreeCodeCamp](https://www.freecodecamp.org/alexdisdier)
 
-################################################################
+### R1D31: October 29, 2018 
 
-## Log Dummy examples
+**Today's Progress**: I went through some more Intermediate Algorithm Scripting without looking at the solutions. I only took a pic to see what was their solutions and compare it with mine. 
 
-### R1D1: February 30, 2016 (Example 1)
+**Thoughts:** I'm starting to enjoy using Javascript arrow function, much cleaner. 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Duration:** 2h39
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Links to work:** 
+[FreeCodeCamp](https://www.freecodecamp.org/alexdisdier)
 
-**Link to work:** [Calculator App](http://www.example.com)
-I'm building the Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+### R1D32: October 30, 2018 
 
-### R1D2
+**Today's Progress**: I got stuck today on the Sum All Odd Fibonacci Numbers exercise. I need to take a break
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Thoughts:** frustruated and my baby girl is crying like her heart is being ripped apart. 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Duration:** 1h48
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Links to work:** 
+[FreeCodeCamp](https://www.freecodecamp.org/alexdisdier)
