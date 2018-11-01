@@ -432,3 +432,14 @@ I did understand the solution but I wish I came up with it after so many hours. 
 
 **Links to work:** 
 [FreeCodeCamp](https://www.freecodecamp.org/alexdisdier)
+
+### R1D33: October 31, 2018 
+
+**Today's Progress**: I'm definitely struggling through the intermediate Algorithm scripting. But I am almost through. Today, I got stuck on Smallest Common Multiple. 
+
+**Thoughts:** Tough tough and not as much fun.
+
+**Duration:** 1h43
+
+**Links to work:** 
+[FreeCodeCamp](https://www.freecodecamp.org/alexdisdier)
