@@ -443,3 +443,14 @@ I did understand the solution but I wish I came up with it after so many hours. 
 
 **Links to work:** 
 [FreeCodeCamp](https://www.freecodecamp.org/alexdisdier)
+
+### R1D34: November 1, 2018 
+
+**Today's Progress**: This Intermediate Algorithm Scripting is giving me a headache. This is what I consider tough for me. Even when my code works in the console, it doesn't pass the test and it's frustrating. 
+
+**Thoughts:** Headache. Can't wait to be done with this section. 
+
+**Duration:** 1h17
+
+**Links to work:** 
+[FreeCodeCamp](https://www.freecodecamp.org/alexdisdier)
