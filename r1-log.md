@@ -454,3 +454,14 @@ I did understand the solution but I wish I came up with it after so many hours. 
 
 **Links to work:** 
 [FreeCodeCamp](https://www.freecodecamp.org/alexdisdier)
+
+### R1D35: November 2, 2018 
+
+**Today's Progress**: I definitely enjoy a lot more javascript when it's applicable to real life instead of abstract arithmetic. 
+
+**Thoughts:** I was doubting for a day and now I feel confident again. 
+
+**Duration:** 1h10
+
+**Links to work:** 
+[FreeCodeCamp](https://www.freecodecamp.org/alexdisdier)
