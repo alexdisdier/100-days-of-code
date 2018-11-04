@@ -465,3 +465,14 @@ I did understand the solution but I wish I came up with it after so many hours. 
 
 **Links to work:** 
 [FreeCodeCamp](https://www.freecodecamp.org/alexdisdier)
+
+### R1D36: November 3, 2018 
+
+**Today's Progress**: I'm finally done with the intermediate Algorithm Scripting. Onto the JavaScript Algorithms and Data Structures Projects.
+
+**Thoughts:** Feeling excited 
+
+**Duration:** 1h05
+
+**Links to work:** 
+[FreeCodeCamp](https://www.freecodecamp.org/alexdisdier)
