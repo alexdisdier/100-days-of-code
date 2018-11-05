@@ -476,3 +476,16 @@ I did understand the solution but I wish I came up with it after so many hours. 
 
 **Links to work:** 
 [FreeCodeCamp](https://www.freecodecamp.org/alexdisdier)
+
+### R1D37: November 4, 2018 
+
+**Today's Progress**: I finished the first project of the JavaScript Algorithms and Data Structures from FreeCodeCamp.
+
+I took the liberty to create a little web application for the palindrome checker. 
+
+**Thoughts:** Fun to associate web design with some javascript algorithm and see it coming to life. 
+
+**Duration:** 1h54
+
+**Links to work:** 
+On github - [Palindrome-checker](https://alexdisdier.github.io/palindrome-checker/)
