@@ -489,3 +489,16 @@ I took the liberty to create a little web application for the palindrome checker
 
 **Links to work:** 
 On github - [Palindrome-checker](https://alexdisdier.github.io/palindrome-checker/)
+
+### R1D38: November 5, 2018 
+
+**Today's Progress**: I finished the second project of the JavaScript Algorithms and Data Structures from FreeCodeCamp.
+
+I turned the Roman Number Converter into a simple web application. 
+
+**Thoughts:** I looked at some tips in order to get moving on the project. 
+
+**Duration:** 2h49
+
+**Links to work:** 
+On github - [Roman-numeral-converter](https://alexdisdier.github.io/roman-numeral-converter/)
