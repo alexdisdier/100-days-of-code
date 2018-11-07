@@ -494,7 +494,7 @@ On github - [Palindrome-checker](https://alexdisdier.github.io/palindrome-checke
 
 **Today's Progress**: I finished the second project of the JavaScript Algorithms and Data Structures from FreeCodeCamp.
 
-I turned the Roman Number Converter into a simple web application. 
+I turned the Roman Numeral Converter into a simple web application. 
 
 **Thoughts:** I looked at some tips in order to get moving on the project. 
 
@@ -502,3 +502,16 @@ I turned the Roman Number Converter into a simple web application.
 
 **Links to work:** 
 On github - [Roman-numeral-converter](https://alexdisdier.github.io/roman-numeral-converter/)
+
+### R1D39: November 6, 2018 
+
+**Today's Progress**: I finished the third project of the JavaScript Algorithms and Data Structures from FreeCodeCamp.
+
+I turned the Caesars Cipher into a simple web application. 
+
+**Thoughts:** I feel today has been very productive. I have outlined my code with all the README file uploaded to github which helped me to sink in all the information. 
+
+**Duration:** 2h
+
+**Links to work:** 
+On github - [Roman-numeral-converter](https://alexdisdier.github.io/shift-cipher/)
