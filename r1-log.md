@@ -515,3 +515,16 @@ I turned the Caesars Cipher into a simple web application.
 
 **Links to work:** 
 On github - [Roman-numeral-converter](https://alexdisdier.github.io/shift-cipher/)
+
+### R1D40: November 7, 2018 
+
+**Today's Progress**: I finished the fourth project of the JavaScript Algorithms and Data Structures from FreeCodeCamp.
+
+I turned Telephone Number Validator into a simple web application. 
+
+**Thoughts:** Let's just say that regex is not my forte. My solution worked but was much longer than the FreeCodeCamp one. Still cracked the problem :-)
+
+**Duration:** 2h30
+
+**Links to work:** 
+On github - [Telephone-Number-Validator](https://alexdisdier.github.io/telephone-number-validator/)
