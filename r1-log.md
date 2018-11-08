@@ -528,3 +528,11 @@ I turned Telephone Number Validator into a simple web application.
 
 **Links to work:** 
 On github - [Telephone-Number-Validator](https://alexdisdier.github.io/telephone-number-validator/)
+
+### R1D41: November 8, 2018 
+
+**Today's Progress**: I started working on the last project of the JavaScript Algorithms and Data Structures "Cash Register".
+
+**Thoughts:** I wish I had more time. 
+
+**Duration:** 1h13
