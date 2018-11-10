@@ -536,3 +536,10 @@ On github - [Telephone-Number-Validator](https://alexdisdier.github.io/telephone
 **Thoughts:** I wish I had more time. 
 
 **Duration:** 1h13
+
+### R1D42: November 9, 2018 
+
+**Today's Progress**: I couldn't finish "Cash Register" today but I'm getting really close.
+
+**Thoughts:** Just when you think you've cracked the problem, you fail one test and need to overview your whole code base. 
+
