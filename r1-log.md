@@ -541,5 +541,14 @@ On github - [Telephone-Number-Validator](https://alexdisdier.github.io/telephone
 
 **Today's Progress**: I couldn't finish "Cash Register" today but I'm getting really close.
 
-**Thoughts:** Just when you think you've cracked the problem, you fail one test and need to overview your whole code base. 
+**Thoughts:** Just when you think you've cracked the problem, you fail one test and need to overview your whole code base.
 
+**Duration:** 1h00
+
+### R1D43: November 10, 2018 
+
+**Today's Progress**: Still working on the "Cash Register".
+
+**Thoughts:** Tough weekend to work as lots of friends around. Managed to squeeze a 45 min.  
+
+**Duration:** 45 min.
