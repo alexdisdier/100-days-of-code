@@ -563,3 +563,13 @@ On github - [Telephone-Number-Validator](https://alexdisdier.github.io/telephone
 
 **Links to work:** 
 On github - [Cash Register](https://github.com/alexdisdier/cash-register)
+
+### R1D45: November 12, 2018 
+
+**Today's Progress**: I tried to create another facebook messenger bot but it failed once again. 
+
+I then worked a bit on FreeCodeCamp, finished the bootstrap section and started the jQuery section
+
+**Thoughts:** I feel frustrated about this bot as this is my second attempt failure. 
+
+**Duration:** 2h15
