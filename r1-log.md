@@ -552,3 +552,14 @@ On github - [Telephone-Number-Validator](https://alexdisdier.github.io/telephone
 **Thoughts:** Tough weekend to work as lots of friends around. Managed to squeeze a 45 min.  
 
 **Duration:** 45 min.
+
+### R1D44: November 11, 2018 
+
+**Today's Progress**: I finished "Cash Register" without looking at any answer and my code works. This means I completed and obtained the JavaScript Algorithms and Data Structures Certification from FreeCodeCamp. 
+
+**Thoughts:** This makes me proud as I would not consider myself a math expert. 
+
+**Duration:** 2h25
+
+**Links to work:** 
+On github - [Cash Register](https://alexdisdier.github.io/cash-register/)
