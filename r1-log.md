@@ -562,4 +562,4 @@ On github - [Telephone-Number-Validator](https://alexdisdier.github.io/telephone
 **Duration:** 2h25
 
 **Links to work:** 
-On github - [Cash Register](https://alexdisdier.github.io/cash-register/)
+On github - [Cash Register](https://github.com/alexdisdier/cash-register)
