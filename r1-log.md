@@ -573,3 +573,11 @@ I then worked a bit on FreeCodeCamp, finished the bootstrap section and started 
 **Thoughts:** I feel frustrated about this bot as this is my second attempt failure. 
 
 **Duration:** 2h15
+
+### R1D46: November 13, 2018 
+
+**Today's Progress**: I didn't feel the energy to start a new project so I just went through some FreeCodeCamp exercises. I finished jQuery, Sass and started React. 
+
+**Thoughts:** I feel really tired lately as I'm coming out a cold. 
+
+**Duration:** 
