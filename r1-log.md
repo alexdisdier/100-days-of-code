@@ -580,4 +580,4 @@ I then worked a bit on FreeCodeCamp, finished the bootstrap section and started 
 
 **Thoughts:** I feel really tired lately as I'm coming out a cold. 
 
-**Duration:** 
+**Duration:** 1h46
