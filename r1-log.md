@@ -581,3 +581,16 @@ I then worked a bit on FreeCodeCamp, finished the bootstrap section and started 
 **Thoughts:** I feel really tired lately as I'm coming out a cold. 
 
 **Duration:** 1h46
+
+### R1D47: November 14, 2018 
+
+**Today's Progress**: I worked essentially on React today. I feel like I'm getting a good grip on it. 
+
+I also did some chatbot research. Here are some usefuls links I gathered: 
+- (https://www.marutitech.com/complete-guide-chatbots/)
+- (https://chatbotsmagazine.com/how-to-develop-a-chatbot-from-scratch-62bed1adab8c)
+- (https://chatfuel.com/)
+
+**Thoughts:** None, my daughter not feeling well
+
+**Duration:** 3h06
