@@ -594,3 +594,18 @@ I also did some chatbot research. Here are some usefuls links I gathered:
 **Thoughts:** None, my daughter not feeling well
 
 **Duration:** 3h06
+
+### R1D48: November 15, 2018 
+
+**Today's Progress**: I started a web app called SnapPages which will take a screenshot of all the pages of a website url in one click. It will take 3 screenshots of the same page (mobile, tablet, and desktop sizes).
+
+I encountered a problem with CORS on the local server.
+
+I also worked a bit on React today.
+
+**Thoughts:** A pretty productive day
+
+**Duration:** 4h
+
+**Links to work:** 
+On github - [Snap Pages](https://github.com/alexdisdier/snap-pages)
