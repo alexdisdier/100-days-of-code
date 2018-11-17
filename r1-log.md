@@ -608,4 +608,18 @@ I also worked a bit on React today.
 **Duration:** 4h
 
 **Links to work:** 
-On github - [Snap Pages](https://github.com/alexdisdier/snap-pages)
+On github - [Snap Pages](https://alexdisdier.github.io/snap-pages/)
+
+### R1D49: November 16, 2018 
+
+**Today's Progress**: I worked on my snap pages app and I feel like I made some decent progress. 
+
+*Managed to bypass CORS issues when trying to get the html of a url
+*Extract Domain name from URL in order to rename photo saved file
+
+**Thoughts:** Slowly but surely 
+
+**Duration:** 2h34
+
+**Links to work:** 
+On github - [Snap Pages](https://alexdisdier.github.io/snap-pages/)
