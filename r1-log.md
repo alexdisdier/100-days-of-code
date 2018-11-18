@@ -614,12 +614,27 @@ On github - [Snap Pages](https://alexdisdier.github.io/snap-pages/)
 
 **Today's Progress**: I worked on my snap pages app and I feel like I made some decent progress. 
 
-*Managed to bypass CORS issues when trying to get the html of a url
-*Extract Domain name from URL in order to rename photo saved file
+- Managed to bypass CORS issues when trying to get the html of a url
+- Extract Domain name from URL in order to rename photo saved file
 
 **Thoughts:** Slowly but surely 
 
 **Duration:** 2h34
+
+**Links to work:** 
+On github - [Snap Pages](https://alexdisdier.github.io/snap-pages/)
+
+### R1D50: November 17, 2018 
+
+**Today's Progress**: Here's my progress on my SnapPages app:
+- Show the url onto my site without using iframe. Modifying all images links. 
+- Saving locally the canvas (screenshot) using html2canvas and FileSaver. 
+
+I also learn how to create and merge a different branch on github. 
+
+**Thoughts:** I'm proud to be half way my challenge. 
+
+**Duration:** 2h45
 
 **Links to work:** 
 On github - [Snap Pages](https://alexdisdier.github.io/snap-pages/)
