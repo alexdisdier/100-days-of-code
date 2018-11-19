@@ -638,3 +638,11 @@ I also learn how to create and merge a different branch on github.
 
 **Links to work:** 
 On github - [Snap Pages](https://alexdisdier.github.io/snap-pages/)
+
+### R1D51: November 18, 2018 
+
+**Today's Progress**: My goal for today was met: finish the React section from the FreeCodeCamp Curriculum. 
+
+**Thoughts:** React definitely has a learning curve. 
+
+**Duration:** 2h56
