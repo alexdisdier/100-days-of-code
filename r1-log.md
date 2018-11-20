@@ -646,3 +646,14 @@ On github - [Snap Pages](https://alexdisdier.github.io/snap-pages/)
 **Thoughts:** React definitely has a learning curve. 
 
 **Duration:** 2h56
+
+### R1D52: November 19, 2018 
+
+**Today's Progress**: I started the Redux challenges. Redux is a state management framework that can be used with a number of different web technologies, including React.
+
+The Redux store is the single source of truth when it comes to application state.
+
+**Thoughts:** No real strenght today. 
+
+**Duration:** 1h09
+
