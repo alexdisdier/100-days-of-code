@@ -657,3 +657,15 @@ The Redux store is the single source of truth when it comes to application state
 
 **Duration:** 1h09
 
+### R1D52: November 22, 2018 
+
+**Today's Progress**: I finished the Redux challenges and I started the React and Redux Challenges, 
+
+I like how FreeCodeCamp summed up Redux and React: React is a view library that you provide with data, then it renders the view in an efficient, predictable way. Redux is a state management framework that you can use to simplify the management of your application's state.
+
+**Thoughts:** Day travel with time changes means I missed 2 days. There were absolutely no time to code when travelling with the spouse and daughter. 
+
+Sometimes, it's good to take a step back from coding and let the knowledge sink in. When you come back to it, you might be surprised how things became clearer and this will boost your confidence. 
+
+**Duration:** 2h35
+
