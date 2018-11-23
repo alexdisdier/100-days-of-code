@@ -669,3 +669,10 @@ Sometimes, it's good to take a step back from coding and let the knowledge sink 
 
 **Duration:** 2h35
 
+### R1D53: November 23, 2018 
+
+**Today's Progress**: I made some progress on the React and Redux Challenges and I'm close to move on to the Front End Libraries Projects. 
+
+**Thoughts:** Eager to start working on the Front End Libraries Projects. Today, I also worked on getting some recommendation on linkedin from people I've worked for in the past. 
+
+**Duration:** 3h41
