@@ -676,3 +676,55 @@ Sometimes, it's good to take a step back from coding and let the knowledge sink 
 **Thoughts:** Eager to start working on the Front End Libraries Projects. Today, I also worked on getting some recommendation on linkedin from people I've worked for in the past. 
 
 **Duration:** 3h41
+
+### R1D54: November 23, 2018 
+
+**Today's Progress**: I made some progress on the React and Redux Challenges and I'm close to move on to the Front End Libraries Projects. 
+
+**Thoughts:** Eager to start working on the Front End Libraries Projects. Today, I also worked on getting some recommendation on linkedin from people I've worked for in the past. 
+
+**Duration:** 3h41
+
+### R1D55: November 24, 2018 
+
+**Today's Progress**: I finished the React and Redux Challenges. 
+
+I used a great tool to convert my solutions (json files) from FreeCodeCamp saved locally => https://codepen.io/vipatron/full/QZaRJL/
+
+I started to work on the Front End Libraries Projects "Build a Random Quote Machine". To build this project, I will use a mix of 
+- HTML,
+- JavaScript, 
+- Bootstrap, 
+- SASS, 
+- React, 
+- Redux
+
+To speed up the set up of my working environment, I used [Create React App](https://github.com/facebook/create-react-app) - An officially supported way to start a client-side React project with no configuration. 
+
+```
+npm init react-app my-app
+```
+or with Node 8.10.0 or later
+```
+npx create-react-app my-app
+```
+
+- I created the markup html for the project and created a github repo. 
+
+On a separate note, I disabled the creation of .DS_Store file on mac which gets really annoying while set up your working environment. I used the following command and rebooted my mac. [source](https://www.techrepublic.com/article/how-to-disable-the-creation-of-dsstore-files-for-mac-users-folders/)
+
+```
+defaults write com.apple.desktopservices DSDontWriteNetworkStores true
+```
+
+In case you need to reenable it, use the following command in your terminal:
+```
+defaults write com.apple.desktopservices DSDontWriteNetworkStores false
+```
+
+**Thoughts:** Felt like I made some good progress today
+
+**Duration:** 1h51
+
+**Links to work:** 
+On github - [Random-quote-mahcine](https://alexdisdier.github.io/random-quote-machine/)
