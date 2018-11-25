@@ -727,4 +727,22 @@ defaults write com.apple.desktopservices DSDontWriteNetworkStores false
 **Duration:** 1h51
 
 **Links to work:** 
-On github - [Random-quote-mahcine](https://alexdisdier.github.io/random-quote-machine/)
+On github - [random-quote-machine](https://github.com/alexdisdier/random-quote-machine)
+
+### R1D56: November 25, 2018 
+
+**Today's Progress**: I carry on working on my random quote machine project.
+
+- I wrote a simple README.md file to give me a guide line of my project
+- I read about React.js architecture - [Better-organize-your-react-applications](https://medium.com/@alexmngn/how-to-better-organize-your-react-applications-2fd3ea1920f1) - [File structure](https://reactjs.org/docs/faq-structure.html) - [react-architecture-best-practices](https://www.sitepoint.com/react-architecture-best-practices/)
+- I read the [Create React App]() documentation. 
+- I installed node-sass to use Sass
+- I added the extension "React Developer Tools" on chrome (Allow access to file URLs in settings for a local file:// URL)
+- I installed [storybook](https://storybook.js.org/basics/introduction/) - Storybook is a development environment for React UI components. It allows you to browse a component library, view the different states of each component, and interactively develop and test components.
+
+**Thoughts:** Enjoy the setting up process and I didn't want to jump into code without having build a solid base. 
+
+**Duration:** 2h36
+
+**Links to work:** 
+On github - [random-quote-machine](https://github.com/alexdisdier/random-quote-machine)
