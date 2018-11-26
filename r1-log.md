@@ -731,7 +731,7 @@ On github - [random-quote-machine](https://github.com/alexdisdier/random-quote-m
 
 ### R1D56: November 25, 2018 
 
-**Today's Progress**: I carry on working on my random quote machine project.
+**Today's Progress**: I carried on working on my random quote machine project.
 
 - I wrote a simple README.md file to give me a guide line of my project
 - I read about React.js architecture - [Better-organize-your-react-applications](https://medium.com/@alexmngn/how-to-better-organize-your-react-applications-2fd3ea1920f1) - [File structure](https://reactjs.org/docs/faq-structure.html) - [react-architecture-best-practices](https://www.sitepoint.com/react-architecture-best-practices/)
@@ -743,6 +743,18 @@ On github - [random-quote-machine](https://github.com/alexdisdier/random-quote-m
 **Thoughts:** Enjoy the setting up process and I didn't want to jump into code without having build a solid base. 
 
 **Duration:** 2h36
+
+**Links to work:** 
+On github - [random-quote-machine](https://github.com/alexdisdier/random-quote-machine)
+
+### R1D57: November 26, 2018 
+
+**Today's Progress**: I finished the html markup and the design of my random quote machine. 
+I created a Card and a Button Component. 
+
+**Thoughts:** Can't wait to be done with the design and start play with React
+
+**Duration:** 3h30
 
 **Links to work:** 
 On github - [random-quote-machine](https://github.com/alexdisdier/random-quote-machine)
