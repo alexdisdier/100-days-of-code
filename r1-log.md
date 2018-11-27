@@ -758,3 +758,18 @@ I created a Card and a Button Component.
 
 **Links to work:** 
 On github - [random-quote-machine](https://github.com/alexdisdier/random-quote-machine)
+
+### R1D58: November 27, 2018 
+
+**Today's Progress**: I learned (how to perform http requests using the fetch api)[https://medium.freecodecamp.org/a-practical-es6-guide-on-how-to-perform-http-requests-using-the-fetch-api-594c3d91a547]
+
+- I looked for a quotes api
+- I manipulated the api
+- Now, I have to display when the user click on new quote
+
+**Thoughts:** Better to learn how to walk before running. 
+
+**Duration:** 2h15
+
+**Links to work:** 
+On github - [random-quote-machine](https://github.com/alexdisdier/random-quote-machine)
