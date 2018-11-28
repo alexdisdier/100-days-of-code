@@ -773,3 +773,21 @@ On github - [random-quote-machine](https://github.com/alexdisdier/random-quote-m
 
 **Links to work:** 
 On github - [random-quote-machine](https://github.com/alexdisdier/random-quote-machine)
+
+### R1D59: November 28, 2018 
+
+**Today's Progress**: I finished the first Front End Libraries Project.
+
+- I learned how to fetch an api and display the content within my app.
+- A button dynamically refreshed the quotes content. 
+- Did some css to make a card
+- Used React and boilerplate Create React App
+- I could come back to this project and make a possibility to either fetch French quotes or English quotes.
+-I could also change the styling everytime it refreshes. 
+
+**Thoughts:** I really enjoyed working with React. I feel like I'm getting a grasp on what it can do. 
+
+**Duration:** 4h09
+
+**Links to work:** 
+On github - [random-quote-machine](https://codepen.io/alexdisdier/pen/qQJpjK)
