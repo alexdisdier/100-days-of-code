@@ -790,4 +790,20 @@ On github - [random-quote-machine](https://github.com/alexdisdier/random-quote-m
 **Duration:** 4h09
 
 **Links to work:** 
-On github - [random-quote-machine](https://codepen.io/alexdisdier/pen/qQJpjK)
+On codpen - [random-quote-machine](https://codepen.io/alexdisdier/pen/qQJpjK)
+
+### R1D60: November 29, 2018 
+
+**Today's Progress**: I set up my development environment for the markdown previewer project. 
+
+- installed sass (npm install node-sass --save)
+- did the html markdown
+- updates preview according to editor
+- markdown from editor turns into html in the preview
+
+**Thoughts:** Excited to start working on this project. 
+
+**Duration:** 2h57
+
+**Links to work:** 
+On github - [Markdown Previewer](https://github.com/alexdisdier/markdown-previewer)
