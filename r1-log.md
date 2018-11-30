@@ -783,7 +783,7 @@ On github - [random-quote-machine](https://github.com/alexdisdier/random-quote-m
 - Did some css to make a card
 - Used React and boilerplate Create React App
 - I could come back to this project and make a possibility to either fetch French quotes or English quotes.
--I could also change the styling everytime it refreshes. 
+- I could also change the styling everytime it refreshes. 
 
 **Thoughts:** I really enjoyed working with React. I feel like I'm getting a grasp on what it can do. 
 
@@ -804,6 +804,17 @@ On codpen - [random-quote-machine](https://codepen.io/alexdisdier/pen/qQJpjK)
 **Thoughts:** Excited to start working on this project. 
 
 **Duration:** 2h57
+
+**Links to work:** 
+On github - [Markdown Previewer](https://github.com/alexdisdier/markdown-previewer)
+
+### R1D61: November 30, 2018 
+
+**Today's Progress**: I finished the functionalities of the previewer. Still want to work a bit on the design. 
+
+**Thoughts:** Good day in terms of finding the right bootcamp to specialize in React and React Native. "Le reacteur" 
+
+**Duration:** 1h07
 
 **Links to work:** 
 On github - [Markdown Previewer](https://github.com/alexdisdier/markdown-previewer)
