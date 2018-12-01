@@ -818,3 +818,18 @@ On github - [Markdown Previewer](https://github.com/alexdisdier/markdown-preview
 
 **Links to work:** 
 On github - [Markdown Previewer](https://github.com/alexdisdier/markdown-previewer)
+
+### R1D62: December 1, 2018 
+
+**Today's Progress**: I finished the Markdown previewer. 
+
+- uploaded to codepen.
+- I could add more functionalities later on. 
+
+**Thoughts:** Decent day, wish I went faster. Onto the next project
+
+**Duration:** 2h56
+
+**Links to work:** 
+On github - [Markdown Previewer](https://alexdisdier.github.io/markdown-previewer/)
+On codepen - [Markdown Previewer](https://codepen.io/alexdisdier/pen/yQZMgm)
