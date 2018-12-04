@@ -727,7 +727,8 @@ defaults write com.apple.desktopservices DSDontWriteNetworkStores false
 **Duration:** 1h51
 
 **Links to work:** 
-On github - [random-quote-machine](https://github.com/alexdisdier/random-quote-machine)
+On github - [random-quote-machine](https://alexdisdier.github.io/random-quote-machine/)
+On codpen - [random-quote-machine](https://codepen.io/alexdisdier/pen/qQJpjK)
 
 ### R1D56: November 25, 2018 
 
@@ -745,7 +746,8 @@ On github - [random-quote-machine](https://github.com/alexdisdier/random-quote-m
 **Duration:** 2h36
 
 **Links to work:** 
-On github - [random-quote-machine](https://github.com/alexdisdier/random-quote-machine)
+On github - [random-quote-machine](https://alexdisdier.github.io/random-quote-machine/)
+On codpen - [random-quote-machine](https://codepen.io/alexdisdier/pen/qQJpjK)
 
 ### R1D57: November 26, 2018 
 
@@ -757,7 +759,8 @@ I created a Card and a Button Component.
 **Duration:** 3h30
 
 **Links to work:** 
-On github - [random-quote-machine](https://github.com/alexdisdier/random-quote-machine)
+On github - [random-quote-machine](https://alexdisdier.github.io/random-quote-machine/)
+On codpen - [random-quote-machine](https://codepen.io/alexdisdier/pen/qQJpjK)
 
 ### R1D58: November 27, 2018 
 
@@ -772,7 +775,8 @@ On github - [random-quote-machine](https://github.com/alexdisdier/random-quote-m
 **Duration:** 2h15
 
 **Links to work:** 
-On github - [random-quote-machine](https://github.com/alexdisdier/random-quote-machine)
+On github - [random-quote-machine](https://alexdisdier.github.io/random-quote-machine/)
+On codpen - [random-quote-machine](https://codepen.io/alexdisdier/pen/qQJpjK)
 
 ### R1D59: November 28, 2018 
 
@@ -790,6 +794,7 @@ On github - [random-quote-machine](https://github.com/alexdisdier/random-quote-m
 **Duration:** 4h09
 
 **Links to work:** 
+On github - [random-quote-machine](https://alexdisdier.github.io/random-quote-machine/)
 On codpen - [random-quote-machine](https://codepen.io/alexdisdier/pen/qQJpjK)
 
 ### R1D60: November 29, 2018 
@@ -806,7 +811,8 @@ On codpen - [random-quote-machine](https://codepen.io/alexdisdier/pen/qQJpjK)
 **Duration:** 2h57
 
 **Links to work:** 
-On github - [Markdown Previewer](https://github.com/alexdisdier/markdown-previewer)
+On github - [Markdown Previewer](https://alexdisdier.github.io/markdown-previewer/)
+On Codepen - [Markdown Previewer](https://github.com/alexdisdier/markdown-previewer)
 
 ### R1D61: November 30, 2018 
 
@@ -817,7 +823,8 @@ On github - [Markdown Previewer](https://github.com/alexdisdier/markdown-preview
 **Duration:** 1h07
 
 **Links to work:** 
-On github - [Markdown Previewer](https://github.com/alexdisdier/markdown-previewer)
+On github - [Markdown Previewer](https://alexdisdier.github.io/markdown-previewer/)
+On Codepen - [Markdown Previewer](https://github.com/alexdisdier/markdown-previewer)
 
 ### R1D62: December 1, 2018 
 
@@ -833,3 +840,43 @@ On github - [Markdown Previewer](https://github.com/alexdisdier/markdown-preview
 **Links to work:** 
 On github - [Markdown Previewer](https://alexdisdier.github.io/markdown-previewer/)
 On codepen - [Markdown Previewer](https://codepen.io/alexdisdier/pen/yQZMgm)
+
+### R1D63: December 2, 2018 
+
+**Today's Progress**: Worked essentially on the design of my drum machine project
+
+**Thoughts:** making progress
+
+**Duration:** 2h29
+
+**Links to work:** 
+On github - [Drum Machine](https://alexdisdier.github.io/drum-machine/)
+
+### R1D64: December 3, 2018 
+
+**Today's Progress**: I finished the design of my drum machine and I divided my project into several React components. 
+
+- Starting working on my components' functionalities. 
+- Following an Udemy React course on the side to review my knowledge. 
+
+**Thoughts:** I feel like React's principles are sinking in. 
+
+**Duration:** 3h33
+
+**Links to work:** 
+On github - [Drum Machine](https://alexdisdier.github.io/drum-machine/)
+
+### R1D65: December 4, 2018 
+
+**Today's Progress**: I spent quite sometime trying to pass data from one sibling to another in my React app. 
+
+- I understood the only way was to go from child to parent and parent to sibling. (quite tedious)
+- Read on [React component communication](https://www.javascriptstuff.com/component-communication/#5-parent-component).
+- Carried on the Udemy React course. 
+
+**Thoughts:** Passing data in React is not as simple as I thought. 
+
+**Duration:** 2h21
+
+**Links to work:** 
+On github - [Drum Machine](https://alexdisdier.github.io/drum-machine/)
