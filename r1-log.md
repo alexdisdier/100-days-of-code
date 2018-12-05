@@ -880,3 +880,17 @@ On github - [Drum Machine](https://alexdisdier.github.io/drum-machine/)
 
 **Links to work:** 
 On github - [Drum Machine](https://alexdisdier.github.io/drum-machine/)
+
+### R1D66: December 5, 2018 
+
+**Today's Progress**: I figured out how to pass data from grandparent to grandchildren, parents to children and children to parents. React is basically a big family. 
+
+- When powered on, the pad works. Otherwise audio remains on pause when clicked. 
+- Also, the static display turns on on power. Next I have to dynamically display the pad name onto the display
+
+**Thoughts:** spaghetti links is tough to wrap my head around. 
+
+**Duration:** 4h10
+
+**Links to work:** 
+On github - [Drum Machine](https://alexdisdier.github.io/drum-machine/)
