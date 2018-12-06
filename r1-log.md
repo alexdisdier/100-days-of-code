@@ -894,3 +894,17 @@ On github - [Drum Machine](https://alexdisdier.github.io/drum-machine/)
 
 **Links to work:** 
 On github - [Drum Machine](https://alexdisdier.github.io/drum-machine/)
+
+### R1D67: December 6, 2018 
+
+**Today's Progress**: I finished the drum machine project from FreeCodeCamp
+
+- I still could make my style better and add the volume function.
+- I also need to write an article when I have time about passing data from children to grandparents and from grandparents to children. For siblings, they need to go through their grandparents to talk to each other. 
+
+**Thoughts:** The components communication is not easy in React. I need more practice to get the hang of it. 
+
+**Duration:** 2h19
+
+**Links to work:** 
+On github - [Drum Machine](https://alexdisdier.github.io/drum-machine/)
