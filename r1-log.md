@@ -908,3 +908,12 @@ On github - [Drum Machine](https://alexdisdier.github.io/drum-machine/)
 
 **Links to work:** 
 On github - [Drum Machine](https://alexdisdier.github.io/drum-machine/)
+
+### R1D68: December 7, 2018 
+
+**Today's Progress**: I Carried the course on React from Udemy and I made the switch to Visual Studio Code from Atom. 
+
+**Thoughts:** Tough day for the family, daughter super sick, and I'm catching what she has. 
+
+**Duration:** 1h
+
