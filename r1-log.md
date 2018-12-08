@@ -917,3 +917,12 @@ On github - [Drum Machine](https://alexdisdier.github.io/drum-machine/)
 
 **Duration:** 1h
 
+### R1D69: December 8, 2018 
+
+**Today's Progress**: I refactored some code where I changed class-based componenents to a functional component. I Also changed some functions syntax to ES6 arrow functions.
+
+I carried on the course on React from Udemy.
+
+**Thoughts:** This course is really useful. 
+
+**Duration:** 3h18
