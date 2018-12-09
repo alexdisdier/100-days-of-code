@@ -926,3 +926,11 @@ I carried on the course on React from Udemy.
 **Thoughts:** This course is really useful. 
 
 **Duration:** 3h18
+
+### R1D70: December 9, 2018 
+
+**Today's Progress**: I'm still refactoring my code from Drum machine and I started writing a case study on all the changes I'm making and why. 
+
+This is thankfully to the course I'm taking on Udemy about React. 
+
+**Duration:** 3h11
