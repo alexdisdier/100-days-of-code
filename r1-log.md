@@ -934,3 +934,16 @@ I carried on the course on React from Udemy.
 This is thankfully to the course I'm taking on Udemy about React. 
 
 **Duration:** 3h11
+
+### R1D71: December 10, 2018 
+
+**Today's Progress**: I finished the design for my javascript calculator part of the FCC Front End Libraries Projects.
+
+I also carried on my React course on Udemy. 
+
+**Thoughts:** Tip from React course by Maximilian Schwarzmüller : "everything is just Javascript"
+
+**Duration:** 3h58
+
+**Links to work:** 
+On github - [Javascript Calculator](https://alexdisdier.github.io/javascript-calculator/)
