@@ -947,3 +947,14 @@ I also carried on my React course on Udemy.
 
 **Links to work:** 
 On github - [Javascript Calculator](https://alexdisdier.github.io/javascript-calculator/)
+
+### R1D72: December 11, 2018 
+
+**Today's Progress**: basic functions of my javascript calculator work. Still need to be able to add more than one operator in a single computing. 
+
+**Thoughts:** Tough to replace my eval() with regex. 
+
+**Duration:** 3h20
+
+**Links to work:** 
+On github - [Javascript Calculator](https://alexdisdier.github.io/javascript-calculator/)
