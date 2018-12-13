@@ -958,3 +958,34 @@ On github - [Javascript Calculator](https://alexdisdier.github.io/javascript-cal
 
 **Links to work:** 
 On github - [Javascript Calculator](https://alexdisdier.github.io/javascript-calculator/)
+
+### R1D73: December 12, 2018 
+
+**Today's Progress**: I reached 12 out of 16 tests passed on FFC for my calculator but I hit a wall. 
+
+My code was starting to look like spagetthis. 
+
+I decided to throw away my code and start again keeping in mind simple is better. 
+
+**Thoughts:** I have a headache
+
+**Duration:** 4h02
+
+**Links to work:** 
+On github - [Javascript Calculator](https://alexdisdier.github.io/javascript-calculator/)
+
+### R1D74: December 13, 2018 
+
+**Today's Progress**: I reached 13 out of 16 tests passed on FFC for my calculator.
+
+3 tests to go:
+* in any order, I should be able to add, subtract, multiply and divide a chain of numbers of any length, and when I hit "=", the correct result should be shown in the element with the id of "display"
+* When inputting numbers, my calculator should not allow a number to begin with multiple zeros.
+* When the decimal element is clicked, a "." should append to the currently displayed value; two "." in one number should not be accepted
+
+**Thoughts:** I made some great progress and my code is easier to understand. 
+
+**Duration:** 3h15
+
+**Links to work:** 
+On github - [Javascript Calculator](https://alexdisdier.github.io/javascript-calculator/)
