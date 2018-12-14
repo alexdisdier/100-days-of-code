@@ -989,3 +989,14 @@ On github - [Javascript Calculator](https://alexdisdier.github.io/javascript-cal
 
 **Links to work:** 
 On github - [Javascript Calculator](https://alexdisdier.github.io/javascript-calculator/)
+
+### R1D75: December 14, 2018 
+
+**Today's Progress**: I'm so close to finishing this javascript calculator. ONly need to finish multiple computing at once. 
+
+**Thoughts:** This calculator is probably one of the hardest thing I've ever done. 
+
+**Duration:** 4h
+
+**Links to work:** 
+On github - [Javascript Calculator](https://alexdisdier.github.io/javascript-calculator/)
