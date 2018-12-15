@@ -1000,3 +1000,22 @@ On github - [Javascript Calculator](https://alexdisdier.github.io/javascript-cal
 
 **Links to work:** 
 On github - [Javascript Calculator](https://alexdisdier.github.io/javascript-calculator/)
+
+### R1D76: December 15, 2018 
+
+**Today's Progress**: I finally managed to get this javascript calculator to pass the test suites of FCC. This took me 12 hours ;-)
+
+I added an extra functionality that wasn't required to pass the test suites from FreeCodeCamp: 
+• a percentage key
+
+However, I want to go further:
+• turn the web app into a progressive web app
+• Update the progressive web app with eventListeners on keystrokes for numbers and signs
+
+**Thoughts:** I feel really proud to have finish this pretty complete web application
+
+**Duration:** 2h46
+
+**Links to work:** 
+On github - [Javascript Calculator](https://alexdisdier.github.io/javascript-calculator/)
+On codepen - [Javascript Calculator](https://codepen.io/alexdisdier/pen/JwXZOE)
