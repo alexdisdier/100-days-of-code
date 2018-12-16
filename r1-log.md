@@ -608,7 +608,7 @@ I also worked a bit on React today.
 **Duration:** 4h
 
 **Links to work:** 
-On github - [Snap Pages](https://alexdisdier.github.io/snap-pages/)
+1. On github - [Snap Pages](https://alexdisdier.github.io/snap-pages/)
 
 ### R1D49: November 16, 2018 
 
@@ -622,7 +622,7 @@ On github - [Snap Pages](https://alexdisdier.github.io/snap-pages/)
 **Duration:** 2h34
 
 **Links to work:** 
-On github - [Snap Pages](https://alexdisdier.github.io/snap-pages/)
+1. On github - [Snap Pages](https://alexdisdier.github.io/snap-pages/)
 
 ### R1D50: November 17, 2018 
 
@@ -637,7 +637,7 @@ I also learn how to create and merge a different branch on github.
 **Duration:** 2h45
 
 **Links to work:** 
-On github - [Snap Pages](https://alexdisdier.github.io/snap-pages/)
+1. On github - [Snap Pages](https://alexdisdier.github.io/snap-pages/)
 
 ### R1D51: November 18, 2018 
 
@@ -727,8 +727,8 @@ defaults write com.apple.desktopservices DSDontWriteNetworkStores false
 **Duration:** 1h51
 
 **Links to work:** 
-On github - [random-quote-machine](https://alexdisdier.github.io/random-quote-machine/)
-On codpen - [random-quote-machine](https://codepen.io/alexdisdier/pen/qQJpjK)
+1. On github - [random-quote-machine](https://alexdisdier.github.io/random-quote-machine/)
+2. On codpen - [random-quote-machine](https://codepen.io/alexdisdier/pen/qQJpjK)
 
 ### R1D56: November 25, 2018 
 
@@ -746,8 +746,8 @@ On codpen - [random-quote-machine](https://codepen.io/alexdisdier/pen/qQJpjK)
 **Duration:** 2h36
 
 **Links to work:** 
-On github - [random-quote-machine](https://alexdisdier.github.io/random-quote-machine/)
-On codpen - [random-quote-machine](https://codepen.io/alexdisdier/pen/qQJpjK)
+1. On github - [random-quote-machine](https://alexdisdier.github.io/random-quote-machine/)
+2. On codpen - [random-quote-machine](https://codepen.io/alexdisdier/pen/qQJpjK)
 
 ### R1D57: November 26, 2018 
 
@@ -759,8 +759,8 @@ I created a Card and a Button Component.
 **Duration:** 3h30
 
 **Links to work:** 
-On github - [random-quote-machine](https://alexdisdier.github.io/random-quote-machine/)
-On codpen - [random-quote-machine](https://codepen.io/alexdisdier/pen/qQJpjK)
+1. On github - [random-quote-machine](https://alexdisdier.github.io/random-quote-machine/)
+2. On codpen - [random-quote-machine](https://codepen.io/alexdisdier/pen/qQJpjK)
 
 ### R1D58: November 27, 2018 
 
@@ -775,8 +775,8 @@ On codpen - [random-quote-machine](https://codepen.io/alexdisdier/pen/qQJpjK)
 **Duration:** 2h15
 
 **Links to work:** 
-On github - [random-quote-machine](https://alexdisdier.github.io/random-quote-machine/)
-On codpen - [random-quote-machine](https://codepen.io/alexdisdier/pen/qQJpjK)
+1. On github - [random-quote-machine](https://alexdisdier.github.io/random-quote-machine/)
+2. On codpen - [random-quote-machine](https://codepen.io/alexdisdier/pen/qQJpjK)
 
 ### R1D59: November 28, 2018 
 
@@ -794,8 +794,8 @@ On codpen - [random-quote-machine](https://codepen.io/alexdisdier/pen/qQJpjK)
 **Duration:** 4h09
 
 **Links to work:** 
-On github - [random-quote-machine](https://alexdisdier.github.io/random-quote-machine/)
-On codpen - [random-quote-machine](https://codepen.io/alexdisdier/pen/qQJpjK)
+1. On github - [random-quote-machine](https://alexdisdier.github.io/random-quote-machine/)
+2. On codpen - [random-quote-machine](https://codepen.io/alexdisdier/pen/qQJpjK)
 
 ### R1D60: November 29, 2018 
 
@@ -811,8 +811,8 @@ On codpen - [random-quote-machine](https://codepen.io/alexdisdier/pen/qQJpjK)
 **Duration:** 2h57
 
 **Links to work:** 
-On github - [Markdown Previewer](https://alexdisdier.github.io/markdown-previewer/)
-On Codepen - [Markdown Previewer](https://github.com/alexdisdier/markdown-previewer)
+1. On github - [Markdown Previewer](https://alexdisdier.github.io/markdown-previewer/)
+2. On Codepen - [Markdown Previewer](https://github.com/alexdisdier/markdown-previewer)
 
 ### R1D61: November 30, 2018 
 
@@ -823,8 +823,8 @@ On Codepen - [Markdown Previewer](https://github.com/alexdisdier/markdown-previe
 **Duration:** 1h07
 
 **Links to work:** 
-On github - [Markdown Previewer](https://alexdisdier.github.io/markdown-previewer/)
-On Codepen - [Markdown Previewer](https://github.com/alexdisdier/markdown-previewer)
+1. On github - [Markdown Previewer](https://alexdisdier.github.io/markdown-previewer/)
+2. On Codepen - [Markdown Previewer](https://github.com/alexdisdier/markdown-previewer)
 
 ### R1D62: December 1, 2018 
 
@@ -838,8 +838,8 @@ On Codepen - [Markdown Previewer](https://github.com/alexdisdier/markdown-previe
 **Duration:** 2h56
 
 **Links to work:** 
-On github - [Markdown Previewer](https://alexdisdier.github.io/markdown-previewer/)
-On codepen - [Markdown Previewer](https://codepen.io/alexdisdier/pen/yQZMgm)
+1. On github - [Markdown Previewer](https://alexdisdier.github.io/markdown-previewer/)
+2. On codepen - [Markdown Previewer](https://codepen.io/alexdisdier/pen/yQZMgm)
 
 ### R1D63: December 2, 2018 
 
@@ -850,7 +850,7 @@ On codepen - [Markdown Previewer](https://codepen.io/alexdisdier/pen/yQZMgm)
 **Duration:** 2h29
 
 **Links to work:** 
-On github - [Drum Machine](https://alexdisdier.github.io/drum-machine/)
+1. On github - [Drum Machine](https://alexdisdier.github.io/drum-machine/)
 
 ### R1D64: December 3, 2018 
 
@@ -864,7 +864,7 @@ On github - [Drum Machine](https://alexdisdier.github.io/drum-machine/)
 **Duration:** 3h33
 
 **Links to work:** 
-On github - [Drum Machine](https://alexdisdier.github.io/drum-machine/)
+1. On github - [Drum Machine](https://alexdisdier.github.io/drum-machine/)
 
 ### R1D65: December 4, 2018 
 
@@ -879,7 +879,7 @@ On github - [Drum Machine](https://alexdisdier.github.io/drum-machine/)
 **Duration:** 2h21
 
 **Links to work:** 
-On github - [Drum Machine](https://alexdisdier.github.io/drum-machine/)
+1. On github - [Drum Machine](https://alexdisdier.github.io/drum-machine/)
 
 ### R1D66: December 5, 2018 
 
@@ -893,7 +893,7 @@ On github - [Drum Machine](https://alexdisdier.github.io/drum-machine/)
 **Duration:** 4h10
 
 **Links to work:** 
-On github - [Drum Machine](https://alexdisdier.github.io/drum-machine/)
+1. On github - [Drum Machine](https://alexdisdier.github.io/drum-machine/)
 
 ### R1D67: December 6, 2018 
 
@@ -907,7 +907,7 @@ On github - [Drum Machine](https://alexdisdier.github.io/drum-machine/)
 **Duration:** 2h19
 
 **Links to work:** 
-On github - [Drum Machine](https://alexdisdier.github.io/drum-machine/)
+1. On github - [Drum Machine](https://alexdisdier.github.io/drum-machine/)
 
 ### R1D68: December 7, 2018 
 
@@ -946,7 +946,7 @@ I also carried on my React course on Udemy.
 **Duration:** 3h58
 
 **Links to work:** 
-On github - [Javascript Calculator](https://alexdisdier.github.io/javascript-calculator/)
+1. On github - [Javascript Calculator](https://alexdisdier.github.io/javascript-calculator/)
 
 ### R1D72: December 11, 2018 
 
@@ -957,7 +957,7 @@ On github - [Javascript Calculator](https://alexdisdier.github.io/javascript-cal
 **Duration:** 3h20
 
 **Links to work:** 
-On github - [Javascript Calculator](https://alexdisdier.github.io/javascript-calculator/)
+1. On github - [Javascript Calculator](https://alexdisdier.github.io/javascript-calculator/)
 
 ### R1D73: December 12, 2018 
 
@@ -972,7 +972,7 @@ I decided to throw away my code and start again keeping in mind simple is better
 **Duration:** 4h02
 
 **Links to work:** 
-On github - [Javascript Calculator](https://alexdisdier.github.io/javascript-calculator/)
+1. On github - [Javascript Calculator](https://alexdisdier.github.io/javascript-calculator/)
 
 ### R1D74: December 13, 2018 
 
@@ -999,7 +999,7 @@ On github - [Javascript Calculator](https://alexdisdier.github.io/javascript-cal
 **Duration:** 4h
 
 **Links to work:** 
-On github - [Javascript Calculator](https://alexdisdier.github.io/javascript-calculator/)
+1. On github - [Javascript Calculator](https://alexdisdier.github.io/javascript-calculator/)
 
 ### R1D76: December 15, 2018 
 
@@ -1017,5 +1017,30 @@ However, I want to go further:
 **Duration:** 2h46
 
 **Links to work:** 
-On github - [Javascript Calculator](https://alexdisdier.github.io/javascript-calculator/)
-On codepen - [Javascript Calculator](https://codepen.io/alexdisdier/pen/JwXZOE)
+1. On github - [Javascript Calculator](https://alexdisdier.github.io/javascript-calculator/)
+2. On codepen - [Javascript Calculator](https://codepen.io/alexdisdier/pen/JwXZOE)
+
+### R1D77: December 16, 2018 
+
+**Today's Progress**: Kept working on my calculator and made it into a web app. 
+
+I used Lighthouse report to improve my app and turn it into a PWA:
+• add meta description to improve SEO (author, description and keywords)
+
+• registered my serviceWorker in my index.js (create-react-app)
+• Created logos for all smart phone and favicons
+• edited my manifest.json file accordingly
+• Check with lighthouse that I scored 100%
+• Took me 1 hour to get the PWA running
+
+Sources: 
+• DID NOT USE BUT USEFUL: https://www.pwabuilder.com/
+• https://medium.com/dev-channel/designing-a-progressive-web-app-icon-b55f63f9ff6e
+• https://love2dev.com/blog/easily-create-a-baseline-set-of-progressive-web-app-icons/
+
+**Thoughts:** I guess created a PWA wasn't hard. 
+
+**Duration:** 1h30
+
+**Links to work:** 
+1. 
