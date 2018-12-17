@@ -1043,4 +1043,22 @@ Sources:
 **Duration:** 1h30
 
 **Links to work:** 
-1. 
+1. On github - [Javascript Calculator](https://alexdisdier.github.io/javascript-calculator/)
+2. On codepen - [Javascript Calculator](https://codepen.io/alexdisdier/pen/JwXZOE)
+
+### R1D78: December 17, 2018 
+
+**Today's Progress**: I finished my PWA splash screens for every IOS devices. 
+
+I then carried on my course on React with UDEMY. 
+
+Source: 
+• https://www.netguru.co/codestories/few-tips-that-will-make-your-pwa-on-ios-feel-like-native
+
+**Thoughts:** I wish I did more coding today but no time. 
+
+**Duration:** 1h19
+
+**Links to work:** 
+1. On github - [Javascript Calculator](https://alexdisdier.github.io/javascript-calculator/)
+2. On codepen - [Javascript Calculator](https://codepen.io/alexdisdier/pen/JwXZOE)
