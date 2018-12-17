@@ -1052,8 +1052,9 @@ Sources:
 
 I then carried on my course on React with UDEMY. 
 
-Source: 
+Sources: 
 • https://www.netguru.co/codestories/few-tips-that-will-make-your-pwa-on-ios-feel-like-native
+• https://medium.com/appscope/adding-custom-ios-splash-screens-to-your-progressive-web-app-41a9b18bdca3
 
 **Thoughts:** I wish I did more coding today but no time. 
 
