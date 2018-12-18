@@ -1063,3 +1063,26 @@ Sources:
 **Links to work:** 
 1. On github - [Javascript Calculator](https://alexdisdier.github.io/javascript-calculator/)
 2. On codepen - [Javascript Calculator](https://codepen.io/alexdisdier/pen/JwXZOE)
+
+### R1D79: December 18, 2018 
+
+**Today's Progress**: I updated my js calculator so it computes decimals correctly. If more than 2 zeros in a row after a decimal, it will not display anymore numbers. However, if it's an infinite number, it will only print up to 10 decimals. 
+
+• Used number.toFixed(num)
+• Used a made up numberIsDecimal function to check if it's decimal
+• Used parseFloat(number)
+
+I also edited my CSS: 
+
+• for more appropriate sizes cross devices: used media queries with a min-width for tablet and max-width for deskotp in orientation: portrait only
+• Colored the background to same display background-color
+
+Finally I edited my README file to include a screenshot of my calculator and added a screenshot.jpg
+
+**Thoughts:** I wish I had time to do more
+
+**Duration:** 2h
+
+**Links to work:** 
+1. On github - [Javascript Calculator](https://alexdisdier.github.io/javascript-calculator/)
+2. On codepen - [Javascript Calculator](https://codepen.io/alexdisdier/pen/JwXZOE)
