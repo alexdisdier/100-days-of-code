@@ -1086,3 +1086,15 @@ Finally I edited my README file to include a screenshot of my calculator and add
 **Links to work:** 
 1. On github - [Javascript Calculator](https://alexdisdier.github.io/javascript-calculator/)
 2. On codepen - [Javascript Calculator](https://codepen.io/alexdisdier/pen/JwXZOE)
+
+### R1D80: December 19, 2018 
+
+**Today's Progress:** I worked essentially on designing my "Pomodoro Clock", last project of Front End Libraries @freeCodeCamp 
+
+• I'm using @figmadesign which is an awesome tool. 🎨
+
+• I also carried on my #reactjs course on #udemy 
+
+**Thoughts:** I love Figma. 
+
+**Duration:** 3h35
