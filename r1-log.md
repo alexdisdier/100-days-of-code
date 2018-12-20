@@ -1098,3 +1098,13 @@ Finally I edited my README file to include a screenshot of my calculator and add
 **Thoughts:** I love Figma. 
 
 **Duration:** 3h35
+
+### R1D81: December 20, 2018 
+
+**Today's Progress:** Today is a travel day so I was barely able to keep going with my Reactjs course on Udemy. 
+
+Tomorrow, I'll start working on building the pomodoro clock according to FCC markups. 
+
+**Thoughts:** Hard to find a space to work during travel days. 
+
+**Duration:** 2h06
