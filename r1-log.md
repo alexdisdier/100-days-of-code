@@ -1108,3 +1108,26 @@ Tomorrow, I'll start working on building the pomodoro clock according to FCC mar
 **Thoughts:** Hard to find a space to work during travel days. 
 
 **Duration:** 2h06
+
+### R1D82: December 21, 2018 
+
+**Today's Progress:** I carried on my Reactjs course on Udemy. 
+
+I also started creating the architecture of my pomodoro timer using React:
+• Wrote a Readme 
+• Defined my states & methods
+• Created my components 
+
+**Thoughts:** I feel like I'm starting develop a guideline for creating my apps
+
+1. Sketching the design
+2. Drawing a diagram of my architecture and defining the states and methods I will be using
+3. Create my App folder with its folders (all the components I need)
+4. Start coding the design
+5. Apply the functionalities. 
+6. Testing my App. 
+
+**Duration:** 3h11
+
+**Links to work:** 
+1. On github - [Pomodoro Timer](https://alexdisdier.github.io/pomodoro-timer/)
