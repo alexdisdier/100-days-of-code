@@ -1131,3 +1131,17 @@ I also started creating the architecture of my pomodoro timer using React:
 
 **Links to work:** 
 1. On github - [Pomodoro Timer](https://alexdisdier.github.io/pomodoro-timer/)
+
+### R1D83: December 22, 2018 
+
+**Today's Progress:** I worked on my pomodoro timer
+
+• Adding svg can be quite a trick. I used this simple [source](https://egghead.io/lessons/react-add-svgs-as-react-components-with-create-react-app-2-0) to accomplish the task.
+• Mostly worked on the design and passing my states and props to components from my container
+
+**Thoughts:** Quite enjoyable process, had time to do some good work. 
+
+**Duration:** 4h30
+
+**Links to work:** 
+1. On github - [Pomodoro Timer](https://alexdisdier.github.io/pomodoro-timer/)
