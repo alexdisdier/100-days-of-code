@@ -1145,3 +1145,23 @@ I also started creating the architecture of my pomodoro timer using React:
 
 **Links to work:** 
 1. On github - [Pomodoro Timer](https://alexdisdier.github.io/pomodoro-timer/)
+
+### R1D84: December 23, 2018 
+
+**Today's Progress:** I worked on my pomodoro timer
+
+• Finished the design and the functionalities for the settings screen
+  • Select Session Length
+  • Select Break Length
+  • Select Cycles
+  • Reset default
+• Finished the design for the session screen 
+
+Tomorrow, I have to concentrate on making the timer work. 
+
+**Thoughts:** Spent a lot of time working with setInterval, setTimeout, clearInterval and clearTimeout
+
+**Duration:** 4h12
+
+**Links to work:** 
+1. On github - [Pomodoro Timer](https://alexdisdier.github.io/pomodoro-timer/)
