@@ -1165,3 +1165,22 @@ Tomorrow, I have to concentrate on making the timer work.
 
 **Links to work:** 
 1. On github - [Pomodoro Timer](https://alexdisdier.github.io/pomodoro-timer/)
+
+### R1D85: December 24, 2018 
+
+**Today's Progress:** I worked on my pomodoro timer
+
+Functionalities I used: 
+• setInterval(func, 1000)
+• a variable named intervalID to store my setInterval
+• clearInterval(this.state.intervalId)
+• parseInt to display my number as strings (enables to add '0' in front of num < 10
+
+Tomorrow, I'll concentrate on adding a break and a cycle feature when timer runs out.
+
+**Thoughts:** Feel pround that my timer works 
+
+**Duration:** 3h30
+
+**Links to work:** 
+1. On github - [Pomodoro Timer](https://alexdisdier.github.io/pomodoro-timer/)
