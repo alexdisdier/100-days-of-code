@@ -1184,3 +1184,19 @@ Tomorrow, I'll concentrate on adding a break and a cycle feature when timer runs
 
 **Links to work:** 
 1. On github - [Pomodoro Timer](https://alexdisdier.github.io/pomodoro-timer/)
+
+### R1D86: December 25, 2018 
+
+**Today's Progress:** I worked on my pomodoro timer and passed 25 out of 29 test suites
+
+Functionality I used: 
+• x.play(), x.pause()
+
+Tomorrow, I'll concentrate on finishing passing the test suites. 
+
+**Thoughts:** Merry Christmas
+
+**Duration:** 5h31
+
+**Links to work:** 
+1. On github - [Pomodoro Timer](https://alexdisdier.github.io/pomodoro-timer/)
