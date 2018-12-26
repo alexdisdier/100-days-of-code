@@ -1200,3 +1200,14 @@ Tomorrow, I'll concentrate on finishing passing the test suites.
 
 **Links to work:** 
 1. On github - [Pomodoro Timer](https://alexdisdier.github.io/pomodoro-timer/)
+
+### R1D87: December 26, 2018 
+
+**Today's Progress:** Not able to resolve the last 4 but my timer is working just fine. 
+
+**Thoughts:** Confused
+
+**Duration:** 1h54
+
+**Links to work:** 
+1. On github - [Pomodoro Timer](https://alexdisdier.github.io/pomodoro-timer/)
