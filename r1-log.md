@@ -1211,3 +1211,14 @@ Tomorrow, I'll concentrate on finishing passing the test suites.
 
 **Links to work:** 
 1. On github - [Pomodoro Timer](https://alexdisdier.github.io/pomodoro-timer/)
+
+### R1D88: December 27, 2018 
+
+**Today's Progress:** Struggling with my pomodoro. Decided to change strategy and dump some of code. 
+
+**Thoughts:** tough challenge. 
+
+**Duration:** 2h16
+
+**Links to work:** 
+1. On github - [Pomodoro Timer](https://alexdisdier.github.io/pomodoro-timer/)
