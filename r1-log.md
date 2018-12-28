@@ -1222,3 +1222,22 @@ Tomorrow, I'll concentrate on finishing passing the test suites.
 
 **Links to work:** 
 1. On github - [Pomodoro Timer](https://alexdisdier.github.io/pomodoro-timer/)
+
+### R1D89: December 28, 2018 
+
+**Today's Progress:** I finally managed to pass all the 29 test suites from FCC for my pomodoro timer app. 
+
+I still want to add a few things before moving on to another project:
+
+• Add the cycles functionality
+• tweek my styling a bit more.
+• add touch gestures to slide my settings menu.
+• Enable alarm sounds on mobile
+• Turn my web app into a PWA
+
+**Thoughts:** A big step forward but I need to go an extra mile. 
+
+**Duration:** 1h05
+
+**Links to work:** 
+1. On github - [Pomodoro Timer](https://alexdisdier.github.io/pomodoro-timer/)
