@@ -1241,3 +1241,20 @@ I still want to add a few things before moving on to another project:
 
 **Links to work:** 
 1. On github - [Pomodoro Timer](https://alexdisdier.github.io/pomodoro-timer/)
+
+### R1D90: December 29, 2018 
+
+**Today's Progress:** Worked on my React course on Udemy 
+
+I learned more about Component Lifecycle:
+• componentWillMount()
+• componentDidMount()
+• componentWillUpdate()
+• componentDidUpdate()
+
+**Thoughts:** sort of a chill day. I wished I had more time
+
+**Duration:** 2h11
+
+**Links to work:** 
+1. On github - [Pomodoro Timer](https://alexdisdier.github.io/pomodoro-timer/)
