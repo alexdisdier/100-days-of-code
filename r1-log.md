@@ -1261,14 +1261,11 @@ I learned more about Component Lifecycle:
 
 ### R1D91: December 30, 2018 
 
-**Today's Progress:** Worked on svg animation. 
+**Today's Progress:** I Worked on SVG animations. 
 
-I made a svg circle React component 
+🎨 I created a 'circle' #reactjs component that I'll be able to use in my Pomodoro timer. #freeCodeCamp 
 
-I learned how to:
-• design a circle svg
-• include text inside a svg positioned middle
-• animate my svg
+✍️The stroke-dashoffset follows the circle circumference to indicate time counting down. 
 
 **Thoughts:** I felt like I went back to school learning geometry
 
