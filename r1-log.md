@@ -1258,3 +1258,21 @@ I learned more about Component Lifecycle:
 
 **Links to work:** 
 1. On github - [Pomodoro Timer](https://alexdisdier.github.io/pomodoro-timer/)
+
+### R1D91: December 30, 2018 
+
+**Today's Progress:** Worked on svg animation. 
+
+I made a svg circle React component 
+
+I learned how to:
+• design a circle svg
+• include text inside a svg positioned middle
+• animate my svg
+
+**Thoughts:** I felt like I went back to school learning geometry
+
+**Duration:** 2h27
+
+**Links to work:** 
+1. On github - [Pomodoro Timer](https://alexdisdier.github.io/pomodoro-timer/)
