@@ -1006,11 +1006,11 @@ On github - [Javascript Calculator](https://alexdisdier.github.io/javascript-cal
 **Today's Progress**: I finally managed to get this javascript calculator to pass the test suites of FCC. This took me 12 hours ;-)
 
 I added an extra functionality that wasn't required to pass the test suites from FreeCodeCamp: 
-• a percentage key
+* a percentage key
 
 However, I want to go further:
-• turn the web app into a progressive web app
-• Update the progressive web app with eventListeners on keystrokes for numbers and signs
+* turn the web app into a progressive web app
+* Update the progressive web app with eventListeners on keystrokes for numbers and signs
 
 **Thoughts:** I feel really proud to have finish this pretty complete web application
 
@@ -1025,18 +1025,18 @@ However, I want to go further:
 **Today's Progress**: Kept working on my calculator and made it into a web app. 
 
 I used Lighthouse report to improve my app and turn it into a PWA:
-• add meta description to improve SEO (author, description and keywords)
+* add meta description to improve SEO (author, description and keywords)
 
-• registered my serviceWorker in my index.js (create-react-app)
-• Created logos for all smart phone and favicons
-• edited my manifest.json file accordingly
-• Check with lighthouse that I scored 100%
-• Took me 1 hour to get the PWA running
+* registered my serviceWorker in my index.js (create-react-app)
+* Created logos for all smart phone and favicons
+* edited my manifest.json file accordingly
+* Check with lighthouse that I scored 100%
+* Took me 1 hour to get the PWA running
 
 Sources: 
-• DID NOT USE BUT USEFUL: https://www.pwabuilder.com/
-• https://medium.com/dev-channel/designing-a-progressive-web-app-icon-b55f63f9ff6e
-• https://love2dev.com/blog/easily-create-a-baseline-set-of-progressive-web-app-icons/
+* DID NOT USE BUT USEFUL: https://www.pwabuilder.com/
+* https://medium.com/dev-channel/designing-a-progressive-web-app-icon-b55f63f9ff6e
+* https://love2dev.com/blog/easily-create-a-baseline-set-of-progressive-web-app-icons/
 
 **Thoughts:** I guess created a PWA wasn't hard. 
 
@@ -1053,8 +1053,8 @@ Sources:
 I then carried on my course on React with UDEMY. 
 
 Sources: 
-• https://www.netguru.co/codestories/few-tips-that-will-make-your-pwa-on-ios-feel-like-native
-• https://medium.com/appscope/adding-custom-ios-splash-screens-to-your-progressive-web-app-41a9b18bdca3
+* https://www.netguru.co/codestories/few-tips-that-will-make-your-pwa-on-ios-feel-like-native
+* https://medium.com/appscope/adding-custom-ios-splash-screens-to-your-progressive-web-app-41a9b18bdca3
 
 **Thoughts:** I wish I did more coding today but no time. 
 
@@ -1068,14 +1068,14 @@ Sources:
 
 **Today's Progress**: I updated my js calculator so it computes decimals correctly. If more than 2 zeros in a row after a decimal, it will not display anymore numbers. However, if it's an infinite number, it will only print up to 10 decimals. 
 
-• Used number.toFixed(num)
-• Used a made up numberIsDecimal function to check if it's decimal
-• Used parseFloat(number)
+* Used number.toFixed(num)
+* Used a made up numberIsDecimal function to check if it's decimal
+* Used parseFloat(number)
 
 I also edited my CSS: 
 
-• for more appropriate sizes cross devices: used media queries with a min-width for tablet and max-width for deskotp in orientation: portrait only
-• Colored the background to same display background-color
+* for more appropriate sizes cross devices: used media queries with a min-width for tablet and max-width for deskotp in orientation: portrait only
+* Colored the background to same display background-color
 
 Finally I edited my README file to include a screenshot of my calculator and added a screenshot.jpg
 
@@ -1091,9 +1091,9 @@ Finally I edited my README file to include a screenshot of my calculator and add
 
 **Today's Progress:** I worked essentially on designing my "Pomodoro Clock", last project of Front End Libraries @freeCodeCamp 
 
-• I'm using @figmadesign which is an awesome tool. 🎨
+* I'm using @figmadesign which is an awesome tool. 🎨
 
-• I also carried on my #reactjs course on #udemy 
+* I also carried on my #reactjs course on #udemy 
 
 **Thoughts:** I love Figma. 
 
@@ -1114,9 +1114,9 @@ Tomorrow, I'll start working on building the pomodoro clock according to FCC mar
 **Today's Progress:** I carried on my Reactjs course on Udemy. 
 
 I also started creating the architecture of my pomodoro timer using React:
-• Wrote a Readme 
-• Defined my states & methods
-• Created my components 
+* Wrote a Readme 
+* Defined my states & methods
+* Created my components 
 
 **Thoughts:** I feel like I'm starting develop a guideline for creating my apps
 
@@ -1136,8 +1136,8 @@ I also started creating the architecture of my pomodoro timer using React:
 
 **Today's Progress:** I worked on my pomodoro timer
 
-• Adding svg can be quite a trick. I used this simple [source](https://egghead.io/lessons/react-add-svgs-as-react-components-with-create-react-app-2-0) to accomplish the task.
-• Mostly worked on the design and passing my states and props to components from my container
+* Adding svg can be quite a trick. I used this simple [source](https://egghead.io/lessons/react-add-svgs-as-react-components-with-create-react-app-2-0) to accomplish the task.
+* Mostly worked on the design and passing my states and props to components from my container
 
 **Thoughts:** Quite enjoyable process, had time to do some good work. 
 
@@ -1150,12 +1150,12 @@ I also started creating the architecture of my pomodoro timer using React:
 
 **Today's Progress:** I worked on my pomodoro timer
 
-• Finished the design and the functionalities for the settings screen
-  • Select Session Length
-  • Select Break Length
-  • Select Cycles
-  • Reset default
-• Finished the design for the session screen 
+* Finished the design and the functionalities for the settings screen
+  * Select Session Length
+  * Select Break Length
+  * Select Cycles
+  * Reset default
+* Finished the design for the session screen 
 
 Tomorrow, I have to concentrate on making the timer work. 
 
@@ -1171,10 +1171,10 @@ Tomorrow, I have to concentrate on making the timer work.
 **Today's Progress:** I worked on my pomodoro timer
 
 Functionalities I used: 
-• setInterval(func, 1000)
-• a variable named intervalID to store my setInterval
-• clearInterval(this.state.intervalId)
-• parseInt to display my number as strings (enables to add '0' in front of num < 10
+* setInterval(func, 1000)
+* a variable named intervalID to store my setInterval
+* clearInterval(this.state.intervalId)
+* parseInt to display my number as strings (enables to add '0' in front of num < 10
 
 Tomorrow, I'll concentrate on adding a break and a cycle feature when timer runs out.
 
@@ -1190,7 +1190,7 @@ Tomorrow, I'll concentrate on adding a break and a cycle feature when timer runs
 **Today's Progress:** I worked on my pomodoro timer and passed 25 out of 29 test suites
 
 Functionality I used: 
-• x.play(), x.pause()
+* x.play(), x.pause()
 
 Tomorrow, I'll concentrate on finishing passing the test suites. 
 
@@ -1229,11 +1229,11 @@ Tomorrow, I'll concentrate on finishing passing the test suites.
 
 I still want to add a few things before moving on to another project:
 
-• Add the cycles functionality
-• tweek my styling a bit more.
-• add touch gestures to slide my settings menu.
-• Enable alarm sounds on mobile
-• Turn my web app into a PWA
+* Add the cycles functionality
+* tweek my styling a bit more.
+* add touch gestures to slide my settings menu.
+* Enable alarm sounds on mobile
+* Turn my web app into a PWA
 
 **Thoughts:** A big step forward but I need to go an extra mile. 
 
@@ -1247,10 +1247,10 @@ I still want to add a few things before moving on to another project:
 **Today's Progress:** Worked on my React course on Udemy 
 
 I learned more about Component Lifecycle:
-• componentWillMount()
-• componentDidMount()
-• componentWillUpdate()
-• componentDidUpdate()
+* componentWillMount()
+* componentDidMount()
+* componentWillUpdate()
+* componentDidUpdate()
 
 **Thoughts:** sort of a chill day. I wished I had more time
 
@@ -1263,13 +1263,27 @@ I learned more about Component Lifecycle:
 
 **Today's Progress:** I Worked on SVG animations. 
 
-🎨 I created a 'circle' #reactjs component that I'll be able to use in my Pomodoro timer. #freeCodeCamp 
+* 🎨 I created a 'circle' #reactjs component that I'll be able to use in my Pomodoro timer. #freeCodeCamp 
 
-✍️The stroke-dashoffset follows the circle circumference to indicate time counting down. 
+* ✍️The stroke-dashoffset follows the circle circumference to indicate time counting down. 
 
 **Thoughts:** I felt like I went back to school learning geometry
 
 **Duration:** 2h27
+
+**Links to work:** 
+1. On github - [Pomodoro Timer](https://alexdisdier.github.io/pomodoro-timer/)
+
+### R1D92: December 31, 2018 
+
+**Today's Progress:** Worked more on my Pomodoro Timer. 
+
+* Successfully styled my cycle circles according to the number of cycles left.
+* Tweaked the style of my settings menu when opened.  
+
+**Thoughts:** Happy with the outcome of 2018 and definitely ready to take on 2019
+
+**Duration:** 1h20
 
 **Links to work:** 
 1. On github - [Pomodoro Timer](https://alexdisdier.github.io/pomodoro-timer/)
