@@ -1287,3 +1287,18 @@ I learned more about Component Lifecycle:
 
 **Links to work:** 
 1. On github - [Pomodoro Timer](https://alexdisdier.github.io/pomodoro-timer/)
+
+
+### R1D93: January 1, 2019 
+
+**Today's Progress:** Worked on touch gestures.
+
+* Integrate [hammerjs](https://www.npmjs.com/package/hammerjs) into my react app. [Documentation](http://hammerjs.github.io/getting-started/)
+* Create a slide menu gesture.
+
+**Thoughts:** Let's do it 2019
+
+**Duration:** 1h37
+
+**Links to work:** 
+1. On github - [Pomodoro Timer](https://alexdisdier.github.io/pomodoro-timer/)
