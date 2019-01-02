@@ -1302,3 +1302,14 @@ I learned more about Component Lifecycle:
 
 **Links to work:** 
 1. On github - [Pomodoro Timer](https://alexdisdier.github.io/pomodoro-timer/)
+
+### R1D94: January 2, 2019 
+
+**Today's Progress:** Adjusted my touch gestures and worked on capturing clicks outside my React component
+
+**Thoughts:** Wish I had more time 
+
+**Duration:** 1h13
+
+**Links to work:** 
+1. On github - [Pomodoro Timer](https://alexdisdier.github.io/pomodoro-timer/)
