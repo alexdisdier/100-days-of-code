@@ -1313,3 +1313,15 @@ I learned more about Component Lifecycle:
 
 **Links to work:** 
 1. On github - [Pomodoro Timer](https://alexdisdier.github.io/pomodoro-timer/)
+
+### R1D95: January 3, 2019 
+
+**Today's Progress:** I adjusted my pan swiping gestures. Uploaded my splash screens, registered serviceWorker and turn the web app into a PWA.
+
+**Thoughts:** I''m pretty content with my day
+
+**Duration:** 3h25
+
+**Links to work:** 
+1. On github - [Pomodoro Timer](https://alexdisdier.github.io/pomodoro-timer/)
+2. On Codpen - [Pomodoro Timer](https://codepen.io/alexdisdier/pen/roJeEB)
