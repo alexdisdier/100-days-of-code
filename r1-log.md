@@ -1325,3 +1325,17 @@ I learned more about Component Lifecycle:
 **Links to work:** 
 1. On github - [Pomodoro Timer](https://alexdisdier.github.io/pomodoro-timer/)
 2. On Codpen - [Pomodoro Timer](https://codepen.io/alexdisdier/pen/roJeEB)
+
+### R1D96-97: January 4,5 2019 
+
+**Today's Progress:** 
+
+* I finished the FCC "Introduction on Data Visualization" using d3.js, a JavaScript [library](https://d3js.org/) for visualizing data with HTML, SVG, and CSS.
+
+* I finished the FCC "JSON APIs and Ajax
+
+* I started the Data Visualization Projects => Visualize Data with a Bar Chart
+
+**Thoughts:** I forgot to tweet and push my work yesterday. Oops.
+
+**Duration:** 5h
