@@ -1339,3 +1339,14 @@ I learned more about Component Lifecycle:
 **Thoughts:** I forgot to tweet and push my work yesterday. Oops.
 
 **Duration:** 5h
+
+### R1D98: January 6 2019 
+
+**Today's Progress:** 
+
+* I learned about Webpack
+* Set up the Data Visualization Projects FCC => Visualize Data with a Bar Chart using webpack
+
+**Thoughts:** Tomorrow, starting my React Bootcamp, feeling excited
+
+**Duration:** 2h06
