@@ -1350,3 +1350,17 @@ I learned more about Component Lifecycle:
 **Thoughts:** Tomorrow, starting my React Bootcamp, feeling excited
 
 **Duration:** 2h06
+
+### R1D99: January 7 2019 
+
+**Today's Progress:** I worked on Visualize Data with a Bar chart
+
+* I used React to create a react component for my bars.
+* I started styling my chart. 
+
+**Thoughts:** Started my bootcamp but first day is easy as we're going over basics in javascript. 
+
+**Duration:** 2h
+
+**Links to work:** 
+1. On github - [Pomodoro Timer](https://alexdisdier.github.io/bar-chart-d3/)
