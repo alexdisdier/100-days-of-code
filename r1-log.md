@@ -1364,3 +1364,17 @@ I learned more about Component Lifecycle:
 
 **Links to work:** 
 1. On github - [Pomodoro Timer](https://alexdisdier.github.io/bar-chart-d3/)
+
+### R1D100: January 8 2019 
+
+**Today's Progress:** I worked on Visualize Data with a Bar Chart
+
+* I polished some README files of my projects. 
+* I wrote a medium article to sum up my 100DaysOfCode 
+
+**Thoughts:** What a sensational journey. 
+
+**Duration:** 2h
+
+**Links to work:** 
+[Ending 100Days of Code article on Medium](https://medium.com/@alexdisdier/ending-100daysofcode-round-1-69c151c0f670)
